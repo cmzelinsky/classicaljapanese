@@ -1,0 +1,50 @@
+body{
+    background-color:#c99a3e;
+    color:#FDF3E7;
+    background:#c99a3e url('manyo1.jpg');
+    background-attachment:fixed;
+    overflow-y:scroll;
+    font-family:sans-serif;
+    text-align:right;
+    padding-top:0px;
+    padding-bottom:0px;
+    background-repeat:no-repeat;
+    background-position:left;
+    margin-top:0px;
+}
+
+div{
+    color:#8c001a;
+    text-align:center;
+    display: block;
+    width:400px;
+    padding-left:500px;
+}
+
+p{
+   color:#FDF3E7; 
+}
+
+div.image
+{
+    width:500px;
+    height:670px;
+    background-image:url('manyo1.jpg');
+    margin:0;
+    padding:0;
+    border:1px solid;
+}
+
+div.text
+{
+    width:inherit;
+    height:100%;
+}
+
+#manyo1{
+    margin-right:auto;
+}
+
+#description{
+    margin-left:auto;
+}
