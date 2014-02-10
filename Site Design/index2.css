@@ -1,7 +1,7 @@
 body{
     background-color:#c99a3e;
     color:#FDF3E7;
-    background:#c99a3e url('manyo1.jpg');
+    background:#c99a3e url('manyo3.jpg');
     background-attachment:fixed;
     overflow-y:scroll;
     font-family:sans-serif;
@@ -38,7 +38,7 @@ div{
     text-align:center;
     display: block;
     width:400px;
-    padding-left:500px;
+    padding-left:300px;
 }
 
 p{
@@ -53,7 +53,7 @@ div.image
 {
     width:500px;
     height:670px;
-    background-image:url('manyo1.jpg');
+    background-image:url('manyo3.jpg');
     margin:0;
     padding:0;
     border:1px solid;
