@@ -1,0 +1,51 @@
+head{
+    text-align: "center";
+}
+
+body
+{
+background:url(img_o.gif);
+background-size:20% 20%;
+background-repeat:no-repeat;
+}
+
+body
+{background-repeat:repeat-x;
+background-color:#000000;
+color:#C0C0C0;
+margin:70px;
+}
+
+p{font-family:"Book Antiqua", Times, serif}
+
+h1
+{
+text-align:center;
+}
+
+h2
+{
+text-align:center;
+}
+
+h3
+{
+text-align:center;
+}
+
+
+h5
+{color:#505050  ;
+}
+
+p
+{
+text-align:center;
+}
+
+ul
+{
+text-align:center;
+}
+
+
