@@ -11,22 +11,20 @@ body{
     margin-top:0px;
 }
 
-
 h1{
     background-color:#8c001a;
-    font-family:"Didot", "Georgia", sans-serif;
+    font-family:"Helvetica", sans-serif;
     color:#FDF3E7;
-    font-size:14px;
+    font-size:12px;
     text-align:left;
     margin-top:10px;
     border-bottom-style:solid;
-    
 }
 
 h2{
     color:#8c001a;
     font-family:"Didot", "Georgia", sans-serif;
-    text-align:center;
+    text-align:left;
     display: block;
     width:850px;
     margin-left:auto;

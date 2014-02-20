@@ -3,7 +3,7 @@ body{
     color:#FDF3E7;
     font-family:"Didot", "Georgia", sans-serif;
     text-align:center;
-    background:#c99a3e url('manyo4.jpg');
+    background:#c99a3e url('manyo3.jpg');
     background-attachment:fixed;
     background-repeat:no-repeat;
     background-position:left;
@@ -24,7 +24,7 @@ h1{
 h2{
     color:#8c001a;
     font-family:"Didot", "Georgia", sans-serif;
-    text-align:center;
+    text-align:left;
     display: block;
     width:850px;
     margin-left:auto;
@@ -56,15 +56,24 @@ td{
     width:325px;
 }
 
+div.text
+{
+    font-size:13px;
+    padding:15px;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
 div.image
 {
-width:719px; /*width of your image*/
-height:276.54px; /*height of your image*/
-background-image:url('naraMap1.jpg');
-margin:0;
-padding:0;
-border:2px solid;
-border-radius:25px;
+    width:719px; /*width of your image*/
+    height:276.54px; /*height of your image*/
+    background-image:url('naraMap1.jpg');
+    margin:0;
+    padding:0;
+    border:2px solid;
+    border-radius:25px;
 }
 
 #naraMap{
