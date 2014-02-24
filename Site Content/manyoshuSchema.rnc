@@ -1,0 +1,44 @@
+start = manyoshu
+
+manyoshu = element manyoshu {book+}
+
+book = element book {poem+}
+
+poem = element poem {line, no}
+no = attribute no {xsd:int}
+line = element line {mixed {adjective|verb|adjVerb|inflSuffix|part|possVerb}*, mora}
+
+#linguistic markup
+adjective = element adjective { mixed {infinitive, form } }
+verb = element verb { mixed {infinitive, verbType, form, inflSuffix} }
+adjVerb = element adjType { mixed {adjVerbType, form}}
+inflSuffix = element inflSuffix {mixed {infinitive, inflSuffixType, form} }
+part = element part {mixed {meaning*}}
+possVerb = element possVerb {text}
+mora = attribute mora {xsd:int}
+infinitive = attribute infinitive {text}
+verbType = attribute verbType {"四段"|"上二段"|"上一段"|"下に段"|"下一段"|"ナ行変格"|"ラ行変革"|"カ行変格"|"サ行変格"|"断定"}
+form = attribute form {"未然形" | "連用形" | "終止形" | "連体形" | "已然形" | "命令形"}
+adjType = attribute adjType {"ク活用"|"シク活用"}
+adjVerbType = attribute adjVerbType {"たり"|"なり"}
+inflSuffixType = attribute auxVerbType {"似況"|"完了存続"|"推量"|"可能"|"完了"|"過去"|"打消推量"|"未来推量"|"使役"|"尊敬"|"受身"|"打消"}
+meaning = attribute meaning {text}
+
+
+#content markup
+location = element location {"hometown" | "destination"}
+emotion = element emotion {"nostalgia" | "pride" | "despair"}
+nature = element nature {"plant" | "season" | "weather"}
+# ...more to come very soon
+
+
+# Questions / Comments
+#
+# 1. Would it be helpful to work in Shirane's framework / terminology so that I can connect this tutor to pedagogical contexts?
+#
+# 2. Use of attribute name "infinitive" or "shuushikei"? Shuushikei more semantically forces us to work in a CJ explanation.
+# Using "infinitive", I would instinctually use the MJ infinitive (shuushikei) of the form. Consider.
+#
+# 3. Use of "inflSuffix" versus "auxVerb"? -> Use inflSuffix
+#
+# 4. More fine-grained categories for emotion, nature?
