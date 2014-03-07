@@ -4,11 +4,14 @@ manyoshu = element manyoshu {scroll+}
 
 scroll = element scroll {poem+, no}
 
-poem = element poem {no, version+}
-version = element version {type, line+}
+poem = element poem {no, meter, version+}
+meter = attribute meter {"chouka" | "tanka" | "katauta" | "sedouka" | "bussokusekika"}
+version = element version {type, line+, note*}
 type = attribute type {"original" | "working" | "translation"}
 no = attribute no {xsd:int}
 line = element line {mora*, mixed{(adjective|verb|adjVerb|inflSuffix|part|possVerb)*}}
+note = element note {mixed {verb}}
+
 
 #linguistic markup
 adjective = element adjective { mixed {infinitive, form } }
