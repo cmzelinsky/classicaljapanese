@@ -1,8 +1,19 @@
 var allSpans = document.getElementsByTagName("span")
 var colors = { "verb": "green", "inflSuffix": "blue"}
 
+function clearHighlights() 
+{   
+    var target = document.getElementsByTagName('span');
+    for (var i = 0; i < target.length; i++) 
+    {
+        
+        target[i].style.backgroundColor = "";
+     }
+}
+
 function highlightElement(currentElement)
 {
+    clearHighlights();
     var id = currentElement.getAttribute("id");
     var color = colors[id];
     var targets = [];
@@ -34,17 +45,6 @@ function highlightElements(id)
             targets[i].style.backgroundColor = color;
         }
     }
-}
-    
-function clearHighlights() 
-{   
-    console.log("I've been called!");
-    var target = document.getElementsByTagName('span');
-    for (var i = 0; i < target.length; i++) 
-    {
-        
-        target[i].style.backgroundColor = "";
-     }
 }
 
 function highlightAll()
