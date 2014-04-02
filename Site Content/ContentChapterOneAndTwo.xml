@@ -1,8 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <authors>
-    <authorList> -柿本人麻呂 -弓削皇子 -磐姫皇后 -額田王 -高市黒人 -中皇命 -鏡王女 -大伯皇女 -山上憶良 -大伴家持 -雄略天皇 -舒明天皇 -軍王 -中大兄 -井戸王
-        -大海人 -持統天皇 -阿閇皇女 -當麻真人麻呂妻 -石上麻呂 -志貴皇子 -誉謝女王 -長皇子 -長屋王 -御名部皇女 -長田王 -久米禅師 -天武天皇 -藤原夫人 -大津皇子
-        －石川郎女 －但馬皇女 －長意吉麻呂 -倭皇后 -舎人皇子-柿本朝臣人麻呂妻依羅娘子 </authorList>
+    <personList> 
+        <person xml:id="author" origin=""> 
+            <personName>柿本人麻呂</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>弓削皇子</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>磐姫皇后</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>額田王</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>高市黒人</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>中皇命</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>鏡王女</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>大伯皇女</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>山上憶良</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>大伴家持</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>雄略天皇</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>舒明天皇</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>軍王</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>中大兄</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>井戸王</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>大海人</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>持統天皇</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>阿閇皇女</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>當麻真人麻呂妻</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>石上麻呂</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>志貴皇子</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>誉謝女王</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>長皇子</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>長屋王</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>御名部皇女</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>長田王</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>久米禅師</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>天武天皇</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>藤原夫人</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>大津皇子</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>石川郎女</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>但馬皇女</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>長意吉麻呂</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>倭皇后</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>舎人皇子</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+        <person xml:id="author" origin=""> 
+            <personName>柿本朝臣人麻呂妻依羅娘子</personName>
+            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+        </person>
+    </personList>
     <author>
         <profile>
             <name type="Japanese">柿本人麻呂|柿本人麿|人丸(after Heian period)</name>
@@ -1026,7 +1169,7 @@
             </poem>
             <poem no="163">
                 <emotion/>
-                <p type="題詞">藤<nature type="plain">原</nature>宮御宇天皇代 [高天<nature type="plain"
+                <p type="題詞">藤原宮御宇天皇代 [高天<nature type="plain"
                         >原</nature>廣<nature type="plain">野</nature>姫天皇天皇元年丁亥十一年譲位軽太子尊号曰太上天皇] /
                     大津皇子薨之後大来皇女従伊勢齊宮上京之時御作歌二首 </p>
                 <p type="訓読">神<nature trait="wind">風</nature>の伊勢の国にもあらましを何しか来けむ君もあらなくに </p>
