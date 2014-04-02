@@ -1,0 +1,260 @@
+body{
+    background-color:#000000;
+    color:#FDF3E7;
+    font-family:"Didot", "Georgia", sans-serif;
+    text-align:center;
+    background:#000000 url('manyo3.jpg');
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:left;
+    overflow-y:scroll;
+}
+
+h1{
+    background-color:#585858;
+    font-family:"Helvetica", sans-serif;
+    color:#FDF3E7;
+    font-size:12px;
+    text-align:left;
+    margin-top:10px;
+    border-bottom-style:solid;
+    
+}
+
+h2{
+    color:#E0E0E0 ;
+    font-family:"Didot", "Georgia", sans-serif;
+    text-align:center;
+    display: block;
+    width:850px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h3{
+    font-family:"Didot", "Georgia", sans-serif;
+    font-size:16px;
+}
+
+a{
+    color:white;
+    text-decoration:none;
+}
+
+span.hidden a{
+    color:#8c001a;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+table{
+    border:0px;
+    color:#000000;
+    background-color:#B0B0B0;
+    width:74.8%;
+    margin-left:auto;
+    padding:7px;
+    text-align:center;
+}
+
+div.original, div.working, div.translation{
+    border:1px;
+    color:#000000;
+    background-color:#B0B0B0;
+    width:74.8%;
+    float:left;
+    padding:7px;
+    text-align:center;
+    display:block; 
+}
+
+div.options{
+    width:800px;
+}
+
+tr td{
+    width:325px;
+}
+
+span.verb{
+    
+}
+
+span.inflSuffix{
+    
+}
+
+span.adj{
+    
+}
+
+
+table.bib{
+    text-align:left;
+}
+
+div.text
+{
+    font-size:13px;
+    padding:15px;
+    width:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div.image
+{
+    width:719px;
+    height:276.54px;
+    background-image:url('naraMap1.jpg');
+    margin:0;
+    padding:0;
+    border:2px solid;
+    border-radius:25px;
+}
+
+
+#poemNavigation ul{ 
+    width:74.8%;
+    margin-left:auto;
+    list-style-type:none; 
+    text-align:center; 
+    padding-top:10px;
+    background-color:#B0B0B0;
+    position:relative; 
+}
+
+#poemNavigation ul li{
+    display:block; 
+    text-align:center; 
+    float:left;
+}
+
+#poemNavigation ul li a{
+    text-decoration:none;
+    padding:.19em;
+    color:#B0B0B0;
+    text-align:center;
+    display:block;
+    border:1px solid #B0B0B0;
+}
+
+#poemNavigation ul li a:hover{
+    color:#B0B0B0;
+    background-color:#996666;
+    /*The pretty purple color^*/
+    text-align:center;
+}
+
+
+
+#navigation ul{ 
+    margin:auto; 
+    width:700px; 
+    list-style-type:none; 
+    text-align:center; 
+    background-color:#B0B0B0; 
+    position:relative; 
+    padding-top:10px;
+}
+
+/*The navigation bar*/
+#navigation ul li{
+    display:block; 
+    text-align:center; 
+    float:left;
+}
+
+/*Each anchor in the navigation bar*/
+#navigation ul li a{
+    text-decoration:none;
+    padding:.005em 1.9em;
+    color:#B0B0B0;
+    text-align:center;
+    display:block;
+    border:1px solid #B0B0B0;
+}
+
+
+#navigation ul li a:hover{
+    color:#B0B0B0;
+    background-color:#585858;
+    /*The pretty purple color^*/
+    text-align:center;
+}
+
+/*Each dropdown menu */
+#navigation li ul{
+    display:none;
+    margin-left:0px;
+    padding:0px;
+    position:relative;
+    width:150px;
+    padding-bottom:10px;
+}
+
+#navigation li:hover ul{
+    margin:0 auto;
+    display:block;
+    position:absolute;
+}
+
+#navigation li:hover li{
+    float:none;
+}
+
+#navigation ul ul li {
+ text-align:center;
+ background-color:#fff;
+ border:1px solid #B0B0B0;
+}
+
+#navigation ul ul li a {
+    padding:.005em 1.21em;
+    border:1px;
+}
+
+/*Tooltip Styling */
+
+#tt {
+ position:absolute;
+ display:block;
+ background:url(tt_left.gif) top left no-repeat;
+ }
+ #tttop {
+ display:block;
+ height:3px;
+ margin-left:5px;
+ background:url(tt_top.gif) top right no-repeat;
+ overflow:hidden;
+ }
+
+ #ttcont {
+ display:block;
+ padding:2px 12px 3px 7px;
+ margin-left:5px;
+ background:#AA00FF;
+ color:#fff;
+ }
+ 
+#ttbot {
+display:block;
+height:3px;
+margin-left:5px;
+background:url(tt_bottom.gif) top right no-repeat;
+overflow:hidden;
+}
+img{
+    float : left;
+    margin : 0 0 1em 1em;
+    border-style : solid;
+    border-width : 10px;
+    border-color : black;
+    top : 200px;
+    right : 80px;
+    height: 258px;
+    width: 350px;
+}
