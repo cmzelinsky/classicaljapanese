@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="manyoshuSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<manyoshu>
+    <scroll no="1">
+        <poem no="1" meter="chouka">
+            <version type="original">
+                <line>篭毛與</line>
+                <line>美篭母乳</line>
+                <line>布久思毛與</line>
+                <line>美夫君志持</line>
+                <line>此岳尓</line>
+                <line>菜採須兒</line>
+                <line>家吉閑名</line>
+                <line>告紗根</line>
+                <line>虚見津</line>
+                <line>山跡乃國者</line>
+                <line>押奈戸手</line>
+                <line>吾許曽居</line>
+                <line>師吉名倍手</line>
+                <line>吾己曽座</line>
+                <line>我許背齒</line>
+                <line>告目</line>
+                <line>家呼毛名雄母</line>
+            </version>
+            <version type="working">
+                <line mora="3">篭<part function="exclamation">も</part>よ</line>
+                <line mora="4">み篭<verb infinitive="持つ" verbType="四段" form="連用形">持ち</verb></line>
+                <line mora="5">堀串<part function="exclamation">も</part>よ</line>
+                <line mora="6">み堀串<verb infinitive="持つ" verbType="四段" form="連用形">持ち</verb></line>
+                <line mora="5">この岡に</line>
+                <line mora="5">菜<verb infinitive="摘む" verbType="四段" form="連体形">摘ます</verb>子</line>
+                <line mora="5">家<possVerb>聞</possVerb><part function="exclamation">か</part><part
+                        function="request">な</part></line>
+                <line mora="4"><verb infinitive="なのる" verbType="サ行変格" form="未然形">告<inflSuffix
+                            infinitive="り" inflSuffixType="完了存続" form="未然形"
+                            >ら</inflSuffix><inflSuffix infinitive="す"
+                            inflSuffixType="Light Honorific" form="未然形">さ</inflSuffix><part
+                            function="request">ね</part></verb></line>
+                <line mora="4">そらみつ</line>
+                <line mora="7">大和の国は</line>
+                <line mora="5">おしなべて</line>
+                <line mora="7">我れこそ居れ</line>
+                <line mora="5">しきなべて</line>
+                <line mora="7">我れこそ<verb infinitive="座る" verbType="四段" form="未然形">座<inflSuffix
+                            infinitive="す" inflSuffixType="使役" form="連用形"
+                    >せ</inflSuffix></verb></line>
+                <line mora="5">我れこそば</line>
+                <line mora="3"><verb infinitive="なのる" verbType="サ行変格" form="未然形">告</verb><inflSuffix
+                        infinitive="り" inflSuffixType="完了存続" form="未然形">ら</inflSuffix><inflSuffix
+                        infinitive="む" inflSuffixType="未来推量" form="已然形">め</inflSuffix></line>
+                <line mora="7">家<part function="exclamation">を</part><part function="exclamation"
+                        >も</part>名<part function="exclamation">を</part>
+                    <part function="exclamation">も</part></line>
+            </version>
+            <version type="translation">
+                <line>A basket!</line>
+                <line>Holding your precious basket,</line>
+                <line>And a trowel!</line>
+                <line>Holding your precious trowel,</line>
+                <line>on this hillside -- </line>
+                <line>oh, child who plucks the grass -- </line>
+                <line>I ask you, where is your home?</line>
+                <line>Won't you tell me your name?</line>
+                <line>Looking upon the spacious skies</line>
+                <line>over this land of Yamato,</line>
+                <line>it is I who reign all</line>
+                <line>it is I who rule always</line>
+                <line>I who is your ruler</line>
+                <line>will tell you</line>
+                <line>of my home and my name</line>
+            </version>
+        </poem>
+        <poem no="2" meter="chouka">
+            <version type="original">
+                <line>山常庭</line>
+                <line>村山有等</line>
+                <line>取與呂布</line>
+                <line>天乃香具山</line>
+                <line>騰立</line>
+                <line>國見乎為者</line>
+                <line>國原波</line>
+                <line>煙立龍</line>
+                <line>海原波</line>
+                <line>加萬目立多都</line>
+                <line>怜Ａ國曽</line>
+                <line>蜻嶋</line>
+                <line>八間跡能國者</line>
+            </version>
+            <version type="working">
+                <line>大和には</line>
+                <line>群山<verb>あれ</verb>ど</line>
+                <line>とり<verb>よろふ</verb></line>
+                <line>天の香具山</line>
+                <line><verb>登り立ち</verb></line>
+                <line>国見を<verb>すれば</verb></line>
+                <line>国原は</line>
+                <line>煙<verb>立ち立つ</verb></line>
+                <line>海原は</line>
+                <line>鴎<verb>立ち立つ</verb></line>
+                <line>うまし国ぞ</line>
+                <line>蜻蛉島</line>
+                <line>大和の国は</line>
+            </version>
+            <version type="translation">
+                <line>Of many hills in the land of Yamato,</line>
+                <line>I climb heavenly Kagu Hill richly adorned with green foliage,</line>
+                <line>and stand on the summit to view my realm,</line>
+                <line>I see smoke rising on the open plain of land</line>
+                <line>and gulls taking off from the surface of the lake.</line>
+                <line>A splendid land, is this land of Yamato!</line>
+                <note>Copyright Kanji Haitani 2005-2007</note>
+            </version>
+        </poem>
+        <poem no="3" meter="chouka">
+            <version type="original">
+                <line>八隅知之</line>
+                <line>我大王乃</line>
+                <line>朝庭</line>
+                <line>取撫賜</line>
+                <line>夕庭</line>
+                <line>伊縁立之</line>
+                <line>御執乃</line>
+                <line>梓弓之</line>
+                <line>奈加弭乃</line>
+                <line>音為奈利</line>
+                <line>朝猟尓</line>
+                <line>今立須良思</line>
+                <line>暮猟尓</line>
+                <line>今他田渚良之</line>
+                <line>御執[能]</line>
+                <line>[梓]弓之</line>
+                <line>奈加弭乃</line>
+                <line>音為奈里</line>
+            </version>
+            <version type="working">
+                <line mora="5">やすみしし</line>
+                <line mora="7">我が大君の</line>
+                <line mora="5">朝には</line>
+                <line mora="7">取り撫でたまひ</line>
+                <line mora="5">夕には</line>
+                <line mora="7"><verb>い寄り立たしし</verb></line>
+                <line mora="5">み執らしの</line>
+                <line mora="7">梓の弓の</line>
+                <line mora="5">中弭の</line>
+                <line mora="5"><verb>音すなり</verb></line>
+                <line mora="5">朝猟に</line>
+                <line mora="7">今立たすらし</line>
+                <line mora="5">夕猟に</line>
+                <line mora="7">今<verb>立たすらし</verb></line>
+                <line mora="5">み執らしの</line>
+                <line mora="7">梓の弓の</line>
+                <line mora="5">中弭の</line>
+                <line mora="5"><verb>音すなり</verb></line>
+            </version>
+            <version type="translation">
+                <line/>
+            </version>
+        </poem>
+        <poem no="4" meter="tanka">
+            <version type="original">
+                <line>玉尅春</line>
+                <line>内乃大野尓</line>
+                <line>馬數而</line>
+                <line>朝布麻須等六</line>
+                <line>其草深野</line>
+            </version>
+            <version type="working">
+                <line mora="5"><verb>たまきはる</verb></line>
+                <line mora="7">宇智の大野に</line>
+                <line mora="5">馬<verb>並めて</verb></line>
+                <line mora="7">朝踏ますらむ</line>
+                <line mora="7">その草深野</line>
+            </version>
+            <version type="translation"> </version>
+        </poem>
+        <poem no="5">
+            <version type="original">
+                <line>霞立</line>
+                <line>長春日乃</line>
+                <line>晩家流</line>
+                <line>和豆肝之良受</line>
+                <line>村肝乃</line>
+                <line>心乎痛見</line>
+                <line>奴要子鳥</line>
+                <line>卜歎居者</line>
+                <line>珠手次</line>
+                <line>懸乃宜久</line>
+                <line>遠神</line>
+                <line>吾大王乃</line>
+                <line>行幸能</line>
+                <line>山越風乃</line>
+                <line>獨[座]</line>
+                <line>吾衣手尓</line>
+                <line>朝夕尓</line>
+                <line>還比奴礼婆</line>
+                <line>大夫登</line>
+                <line>念有我母</line>
+                <line>草枕</line>
+                <line>客尓之有者</line>
+                <line>思遣</line>
+                <line>鶴寸乎白土</line>
+                <line>網能浦之</line>
+                <line>海處女等之</line>
+                <line>焼塩乃</line>
+                <line>念曽所焼</line>
+                <line>吾下情</line>
+            </version>
+            <version type="working">
+                <line>霞<verb>立つ</verb></line>
+                <line>長き春日の</line>
+                <line><verb>暮れにける</verb></line>
+                <line>わづきも<verb>知らず</verb></line>
+                <line>むらきもの</line>
+                <line>心を<verb>痛み</verb></line>
+                <line>ぬえこ鳥</line>
+                <line>うら<verb>泣け居れば</verb></line>
+                <line>玉たすき</line>
+                <line>懸けのよろしく</line>
+                <line>遠つ神</line>
+                <line>我が大君の</line>
+                <line>行幸の</line>
+                <line>山越す風の</line>
+                <line>ひとり<verb>居る</verb></line>
+                <line>我が衣手に</line>
+                <line>朝夕に</line>
+                <line><verb>返らひぬれば</verb></line>
+                <line>大夫と</line>
+                <line><verb>思へる</verb>我れも</line>
+                <line>草枕</line>
+                <line>旅に<verb>しあれば</verb></line>
+                <line><verb>思ひ遣る</verb></line>
+                <line>たづきを<verb>知らに</verb></line>
+                <line>網の浦の</line>
+                <line>海人娘子らが</line>
+                <line><verb>焼く</verb>塩の</line>
+                <line><verb>思ひぞ</verb><verb>焼くる</verb></line>
+                <line>我が下心</line>
+            </version>
+        </poem>
+        <poem no="6" meter="tanka">
+            <version type="original">
+                <line>山越乃</line>
+                <line>風乎時自見</line>
+                <line>寐[夜]不落</line>
+                <line>家在妹乎</line>
+                <line>懸而小竹櫃</line>
+            </version>
+            <version type="working">
+                <line mora="5">山越しの</line>
+                <line mora="7">風を時じみ</line>
+                <line mora="6"><verb>寝る</verb>夜<verb>おちず</verb></line>
+                <line mora="7">家<verb>なる</verb>妹を</line>
+                <line mora="7"><verb>懸けて偲ひつ</verb></line>
+            </version>
+            <version type="translation"> </version>
+        </poem>
+        <poem no="7">
+            <version type="original">
+                <line>金野乃</line>
+                <line>美草苅葺</line>
+                <line>屋杼礼里之</line>
+                <line>兎道乃宮子能</line>
+                <line>借五百礒所念</line>
+            </version>
+            <version type="working">
+                <line>秋の野の</line>
+                <line>み草刈り<verb>葺き</verb></line>
+                <line><verb>宿れりし</verb></line>
+                <line>宇治の宮処の</line>
+                <line><verb>仮廬し思ほゆ</verb></line>
+            </version>
+        </poem>
+        <poem no="8">
+            <version type="original">
+                <line>熟田津尓</line>
+                <line>船乗世武登</line>
+                <line>月待者</line>
+                <line>潮毛可奈比沼</line>
+                <line>今者許藝乞菜</line>
+            </version>
+            <version type="working">
+                <line>熟田津に</line>
+                <line>船<verb>乗りせむ</verb>と</line>
+                <line>月<verb>待てば</verb></line>
+                <line>潮も<verb>かなひぬ</verb></line>
+                <line>今は<verb>漕ぎ出で</verb>な</line>
+            </version>
+        </poem>
+        <poem no="9">
+            <version type="original">
+                <line>莫囂圓隣之大相七兄爪謁氣</line>
+                <line>吾瀬子之</line>
+                <line>射立為兼</line>
+                <line>五可新何</line>
+            </version>
+            <version type="working">
+                <line>莫囂円隣之大相七兄爪謁気</line>
+                <line>我が背子が</line>
+                <line>い<verb>立たせりけむ</verb></line>
+                <line>厳橿が本</line>
+            </version>
+        </poem>
+        <poem no="10">
+            <version type="original">
+                <line>君之齒母</line>
+                <line>吾代毛所知哉</line>
+                <line>磐代乃</line>
+                <line>岡之草根乎</line>
+                <line>去来結手名</line>
+            </version>
+            <version type="working">
+                <line>君が代も</line>
+                <line>我が代も<verb>知る</verb>や</line>
+                <line>岩代の</line>
+                <line>岡の草根を</line>
+                <line>いざ<verb>結びて</verb>な</line>
+            </version>
+        </poem>
+        <poem no="11">
+            <version type="original">
+                <line>吾勢子波</line>
+                <line>借廬作良須</line>
+                <line>草無者</line>
+                <line>小松下乃</line>
+                <line>草乎苅核</line>
+            </version>
+            <version type="working">
+                <line>我が背子は</line>
+                <line>仮廬<verb>作らす</verb></line>
+                <line>草<adjective>なく</adjective>は</line>
+                <line>小松が下の</line>
+                <line>草を<verb>刈らさね</verb></line>
+            </version>
+        </poem>
+        <poem no="12">
+            <version type="original">
+                <line>吾欲之</line>
+                <line>野嶋波見世追</line>
+                <line>底深伎</line>
+                <line>阿胡根能浦乃</line>
+                <line>珠曽不拾</line>
+                <note>[或頭云 吾欲 子嶋羽見遠]</note>
+            </version>
+            <version type="working">
+                <line>我が欲りし</line>
+                <line>野島は<verb>見せつ</verb></line>
+                <line>底<verb>深き</verb></line>
+                <line>阿胡根の浦の</line>
+                <line>玉ぞ<verb>拾はぬ</verb></line>
+                <note>[或頭云 我が<verb>欲りし</verb>子島は<verb>見し</verb>を]</note>
+            </version>
+        </poem>
+        <poem no="13">
+            <version type="original">
+                <line>高山波</line>
+                <line>雲根火雄男志等</line>
+                <line>耳梨與</line>
+                <line>相諍競伎</line>
+                <line>神代従</line>
+                <line>如此尓有良之</line>
+                <line>古昔母</line>
+                <line>然尓有許曽</line>
+                <line>虚蝉毛</line>
+                <line>嬬乎</line>
+                <line>相[挌]良思吉</line>
+            </version>
+            <version type="working">
+                <line>香具山は</line>
+                <line>畝傍を<verb>愛し</verb>と</line>
+                <line>耳成と</line>
+                <line>相<verb>争ひき</verb></line>
+                <line>神代よりsかく<verb>にあるらし</verb></line>
+                <line>古も</line>
+                <line>しかにあれこそ</line>
+                <line>うつせみも</line>
+                <line>妻を<verb>争ふらしき</verb></line>
+            </version>
+        </poem>
+        <poem no="14">
+            <version type="original">
+                <line>高山与</line>
+                <line>耳梨山与</line>
+                <line>相之時</line>
+                <line>立見尓来之</line>
+                <line>伊奈美國波良</line>
+            </version>
+            <version type="working">
+                <line>香具山と</line>
+                <line>耳成山と</line>
+                <line><verb>闘ひし</verb>時</line>
+                <line><verb>立ちて</verb><verb>見に来し</verb></line>
+                <line>印南国原</line>
+            </version>
+        </poem>
+        <poem no="15">
+            <version type="original">
+                <line>渡津海乃</line>
+                <line>豊旗雲尓</line>
+                <line>伊理比[紗]之</line>
+                <line>今夜乃月夜</line>
+                <line>清明己曽</line>
+            </version>
+            <version type="working">
+                <line>海神の</line>
+                <line>豊旗雲に</line>
+                <line>入日<verb>さし</verb></line>
+                <line>今夜の月夜</line>
+                <line><verb>さやけく</verb><verb>あり</verb>こそ</line>
+            </version>
+        </poem>
+        <poem no="16">
+            <version type="original">
+                <line>冬木成</line>
+                <line>春去来者</line>
+                <line>不喧有之</line>
+                <line>鳥毛来鳴奴</line>
+                <line>不開有之</line>
+                <line>花毛佐家礼抒</line>
+                <line>山乎茂</line>
+                <line>入而毛不取</line>
+                <line>草深</line>
+                <line>執手母不見</line>
+                <line>秋山乃</line>
+                <line>木葉乎見而者</line>
+                <line>黄葉乎婆</line>
+                <line>取而曽思努布</line>
+                <line>青乎者</line>
+                <line>置而曽歎久</line>
+                <line>曽許之恨之</line>
+                <line>秋山吾者</line>
+            </version>
+            <version type="working">
+                <line>冬こもり</line>
+                <line>春さり<verb>来れば</verb></line>
+                <line><verb>鳴かずありし</verb></line>
+                <line>鳥も<verb>来鳴きぬ</verb></line>
+                <line>咲かず<verb>ありし</verb></line>
+                <line>花も<verb>咲</verb>けれど</line>
+                <line>山を<verb>茂み</verb></line>
+                <line><verb>入りても取らず</verb></line>
+                <line>草<verb>深み</verb></line>
+                <line><verb>取りても見ず</verb></line>
+                <line>秋山の</line>
+                <line>木の葉を<verb>見て</verb>は</line>
+                <line>黄葉をば</line>
+                <line><verb>取りてぞ偲ふ</verb></line>
+                <line>青きをば</line>
+                <line><verb>置きてぞ嘆く</verb></line>
+                <line>そこし<verb>恨めし</verb></line>
+                <line>秋山吾は</line>
+            </version>
+        </poem>
+        <poem no="17">
+            <version type="original">
+                <line>味酒</line>
+                <line>三輪乃山</line>
+                <line>青丹吉</line>
+                <line>奈良能山乃</line>
+                <line>山際</line>
+                <line>伊隠萬代</line>
+                <line>道隈</line>
+                <line>伊積流萬代尓</line>
+                <line>委曲毛</line>
+                <line>見管行武雄</line>
+                <line>數々毛</line>
+                <line>見放武八萬雄</line>
+                <line>情無</line>
+                <line>雲乃</line>
+                <line>隠障倍之也</line>
+            </version>
+            <version type="working">
+                <line>味酒</line>
+                <line>三輪の山</line>
+                <line>あをに<adjective>よし</adjective></line>
+                <line>奈良の山の</line>
+                <line>山の際に</line>
+                <line>い<verb>隠る</verb>まで</line>
+                <line>道の隈</line>
+                <line>い積もるまでに</line>
+                <line>つばらにも</line>
+                <line><verb>見つつ行かむ</verb>を</line>
+                <line>しばしばも</line>
+                <line><verb>見放けむ</verb>山を</line>
+                <line>心<verb>なく</verb></line>
+                <line>雲の</line>
+                <line><verb>隠さふ</verb>べしや</line>
+            </version>
+        </poem>
+        <poem no="18">
+            <version type="original">
+                <line>三輪山乎</line>
+                <line>然毛隠賀</line>
+                <line>雲谷裳</line>
+                <line>情有南畝</line>
+                <line>可苦佐布倍思哉</line>
+            </version>
+            <version type="working">
+                <line>三輪山を</line>
+                <line>しかも<verb>隠す</verb>か</line>
+                <line>雲だにも</line>
+                <line>心<verb>あらな</verb>も</line>
+                <line><verb>隠さふ</verb>べしや</line>
+            </version>
+        </poem>
+        <poem no="19">
+            <version type="original">
+                <line>綜麻形乃</line>
+                <line>林始乃</line>
+                <line>狭野榛能</line>
+                <line>衣尓著成</line>
+                <line>目尓都久和我勢</line>
+            </version>
+            <version type="working">
+                <line>綜麻形の</line>
+                <line>林のさきの</line>
+                <line>さ野榛の</line>
+                <line>衣に<verb>付くなす</verb></line>
+                <line>目に<verb>つく</verb>吾が背</line>
+            </version>
+        </poem>
+        <poem no="20">
+            <version type="original">
+                <line>茜草指</line>
+                <line>武良前野逝</line>
+                <line>標野行</line>
+                <line>野守者不見哉</line>
+                <line>君之袖布流</line>
+            </version>
+            <version type="working">
+                <line>あか<verb>ねさす</verb></line>
+                <line>紫野<verb>行き</verb></line>
+                <line>標野<verb>行き</verb></line>
+                <line>野守は<verb>見ず</verb>や</line>
+                <line>君が袖<verb>振る</verb></line>
+            </version>
+        </poem>
+        <poem no="21">
+            <version type="original">
+                <line>紫草能</line>
+                <line>尓保敝類妹乎</line>
+                <line>尓苦久有者</line>
+                <line>人嬬故尓</line>
+                <line>吾戀目八方</line>
+            </version>
+            <version type="working">
+                <line mora="5">紫の</line>
+                <line mora="7">に<verb>ほへる</verb>妹を</line>
+                <line mora="6"><verb>憎くあらば</verb></line>
+                <line mora="7">人妻故に</line>
+                <line mora="7">我れ恋ひめやも</line>
+            </version>
+            <version type="translation">
+                <line>If I did not care for you,</line>
+                <line>who are as beautiful</line>
+                <line>as the glowing purple of gromwell plants,</line>
+                <line>would I dare to be so madly in love with you,</line>
+                <line>knowing full well that you are another's wife?</line>
+                <note>Copyright Kanji Haitani 2005-2007</note>
+            </version>
+        </poem>
+        <poem no="22">
+            <version type="original">
+                <line>河上乃</line>
+                <line>湯津盤村二</line>
+                <line>草武左受</line>
+                <line>常丹毛冀名</line>
+                <line>常處女煮手</line>
+            </version>
+            <version type="working">
+                <line>川の上の</line>
+                <line>ゆつ岩群に</line>
+                <line>草<verb>生さず</verb></line>
+                <line>常にもがもな</line>
+                <line>常処女<verb>にて</verb></line>
+            </version>
+        </poem>
+        <poem no="23">
+            <version type="original">
+                <line>打麻乎</line>
+                <line>麻續王</line>
+                <line>白水郎有哉</line>
+                <line>射等篭荷四間乃</line>
+                <line>珠藻苅麻須</line>
+            </version>
+            <version type="working">
+                <line><verb>打ち</verb>麻を</line>
+                <line>麻続の王海</line>
+                <line>人なれや</line>
+                <line>伊良虞の島の</line>
+                <line>玉藻<verb>刈ります</verb></line>
+            </version>
+        </poem>
+        <poem no="24">
+            <version type="original">
+                <line>空蝉之</line>
+                <line>命乎惜美</line>
+                <line>浪尓所濕</line>
+                <line>伊良虞能嶋之</line>
+                <line>玉藻苅食</line>
+            </version>
+            <version type="working">
+                <line>うつせみの</line>
+                <line>命を<verb>惜しみ</verb></line>
+                <line>波に<verb>濡れ</verb></line>
+                <line>伊良虞の島の</line>
+                <line>玉藻<verb>刈り食む</verb></line>
+            </version>
+        </poem>
+        <poem no="25">
+            <version type="original">
+                <line>三吉野之</line>
+                <line>耳我嶺尓</line>
+                <line>時無曽</line>
+                <line>雪者落家留</line>
+                <line>間無曽</line>
+                <line>雨者零計類</line>
+                <line>其雪乃</line>
+                <line>時無如</line>
+                <line>其雨乃</line>
+                <line>間無如</line>
+                <line>隈毛不落</line>
+                <line>[念]乍叙来</line>
+                <line>其山道乎</line>
+            </version>
+            <version type="working">
+                <line>み吉野の</line>
+                <line>耳我の嶺に</line>
+                <line>時<verb>なくぞ</verb></line>
+                <line>雪は<verb>降りける</verb></line>
+                <line>間<verb>無くぞ</verb></line>
+                <line>雨は<verb>振りける</verb></line>
+                <line>その雪の</line>
+                <line>時<verb>なき</verb>がごと</line>
+                <line>その雨の</line>
+                <line>間<verb>なき</verb>がごと</line>
+                <line>隈も<verb>おちず</verb></line>
+                <line><verb>思ひつつぞ来し</verb></line>
+                <line>その山道を</line>
+            </version>
+        </poem>
+        <poem no="26">
+            <version type="original">
+                <line>三芳野之</line>
+                <line>耳我山尓</line>
+                <line>時自久曽</line>
+                <line>雪者落等言</line>
+                <line>無間曽</line>
+                <line>雨者落等言</line>
+                <line>其雪</line>
+                <line>不時如</line>
+                <line>其雨</line>
+                <line>無間如</line>
+                <line>隈毛不堕</line>
+                <line>思乍叙来</line>
+                <line>其山道乎</line>
+            </version>
+            <version type="working">
+                <line>み吉野の</line>
+                <line>耳我の山に</line>
+                <line>時じくぞ</line>
+                <line>雪は<verb>降る</verb>と<verb>いふ</verb></line>
+                <line>間<verb>なく</verb>ぞ</line>
+                <line>雨は<verb>降る</verb>と<verb>いふ</verb></line>
+                <line>その雪の</line>
+                <line>時じきがごと</line>
+                <line>その雨の</line>
+                <line>間<verb>なき</verb>がごと</line>
+                <line>隈も<verb>おちず</verb></line>
+                <line><verb>思ひつつぞ来る</verb></line>
+                <line>その山道を</line>
+            </version>
+        </poem>
+        <poem no="27">
+            <version type="original">
+                <line>淑人乃</line>
+                <line>良跡吉見而</line>
+                <line>好常言師</line>
+                <line>芳野吉見[与]</line>
+                <line>良人四来三</line>
+            </version>
+            <version type="working">
+                <line><verb>淑き</verb>人の</line>
+                <line>よしとよく<verb>見て</verb></line>
+                <line>よしと<verb>言ひし</verb></line>
+                <line>吉野よく<verb>見よ</verb></line>
+                <line><adjective>良き</adjective>人よく<verb>見</verb></line>
+            </version>
+        </poem>
+        <poem no="28">
+            <version type="original">
+                <line>春過而</line>
+                <line>夏来良之</line>
+                <line>白妙能</line>
+                <line>衣乾有</line>
+                <line>天之香来山</line>
+            </version>
+            <version type="working">
+                <line>春<verb>過ぎて</verb></line>
+                <line>夏<verb>来る</verb>らし</line>
+                <line>白栲の</line>
+                <line>衣<verb>干したり</verb></line>
+                <line>天の香具山</line>
+            </version>
+        </poem>
+        <poem no="29">
+            <version type="original">
+                <line>玉手次</line>
+                <line>畝火之山乃</line>
+                <line>橿原乃</line>
+                <line>日知之御世従</line>
+                <line>[或云 自宮]</line>
+                <line>阿礼座師</line>
+                <line>神之[盡]</line>
+                <line>樛木乃</line>
+                <line>弥継嗣尓</line>
+                <line>天下</line>
+                <line>所知食之乎</line>
+                <line>[或云 食来]</line>
+                <line>天尓満</line>
+                <line>倭乎置而</line>
+                <line>青丹吉</line>
+                <line>平山乎超</line>
+                <line>[或云 虚見 倭乎置 青丹吉 平山越而]</line>
+                <line>何方</line>
+                <line>御念食可</line>
+                <line>[或云 所念計米可]</line>
+                <line>天離</line>
+                <line>夷者雖有</line>
+                <line>石走</line>
+                <line>淡海國乃</line>
+                <line>樂浪乃</line>
+                <line>大津宮尓</line>
+                <line>天下</line>
+                <line>所知食兼</line>
+                <line>天皇之</line>
+                <line>神之御言能</line>
+                <line>大宮者</line>
+                <line>此間等雖聞</line>
+                <line>大殿者</line>
+                <line>此間等雖云</line>
+                <line>春草之</line>
+                <line>茂生有</line>
+                <line>霞立</line>
+                <line>春日之霧流</line>
+                <line>[或云 霞立 春日香霧流 夏草香 繁成奴留]</line>
+                <line>百礒城之</line>
+                <line>大宮處</line>
+                <line>見者悲[毛]</line>
+                <line>[或云 見者左夫思毛]</line>
+            </version>
+            <version type="working">
+                <line>玉<verb>たすき</verb></line>
+                <line>畝傍の山の</line>
+                <line>橿原の</line>
+                <line>ひじりの御代ゆ</line>
+                <line>[或云 宮ゆ]</line>
+                <line><verb>生れましし</verb></line>
+                <line>神のことごと</line>
+                <line>栂の木の</line>
+                <line>いや継ぎ継ぎに</line>
+                <line>天の下</line>
+                <line><verb>知らしめしし</verb>を</line>
+                <line>[或云 <verb>めしける</verb>]</line>
+                <line>そらにみつ</line>
+                <line>大和を<verb>置きて</verb></line>
+                <line>あをによし</line>
+                <line>奈良山を<verb>越え</verb></line>
+                <line>[或云 そらみつ 大和を<verb>置き</verb> あをによし 奈良山<verb>越えて</verb>]</line>
+                <line>いかさまに</line>
+                <line><verb>思ほしめせ</verb>か</line>
+                <line>[或云 <verb>思ほしけめ</verb>か]</line>
+                <line>天<verb>離る</verb></line>
+                <line>鄙には<verb>あれ</verb>ど</line>
+                <line>石<verb>走る</verb></line>
+                <line>近江の国の</line>
+                <line>楽浪の</line>
+                <line>大津の宮に</line>
+                <line>天の下</line>
+                <line><verb>知らしめしけむ</verb></line>
+                <line>天皇の</line>
+                <line>神の命の</line>
+                <line>大宮は</line>
+                <line>ここと聞けども</line>
+                <line>大殿は</line>
+                <line>ここと言へども</line>
+                <line>春草の</line>
+                <line><verb>茂く生ひたる</verb></line>
+                <line>霞<verb>立つ</verb></line>
+                <line>春日の<verb>霧れる</verb></line>
+                <line>[或云 霞<verb>立つ</verb>春日か<verb>霧れる</verb>夏草か<verb>茂くなりぬる</verb>]</line>
+                <line>ももしきの</line>
+                <line>大宮ところ</line>
+                <line><verb>見れば</verb>悲しも</line>
+                <line>[或云 <verb>見れば</verb>寂しも]</line>
+            </version>
+        </poem>
+        <poem no="30">
+            <version type="original">
+                <line>樂浪之</line>
+                <line>思賀乃辛碕</line>
+                <line>雖幸有</line>
+                <line>大宮人之</line>
+                <line>船麻知兼津</line>
+            </version>
+            <version type="working">
+                <line>楽浪の</line>
+                <line>志賀の辛崎</line>
+                <line>幸く<verb>あれ</verb>ど</line>
+                <line>大宮人の</line>
+                <line>舟<verb>待ち</verb>かねつ</line>
+            </version>
+        </poem>
+        <poem no="31">
+            <version type="original">
+                <line>左散難弥乃</line>
+                <line>志我能</line>
+                <line>[一云 比良乃]</line>
+                <line>大和太</line>
+                <line>與杼六友</line>
+                <line>昔人二</line>
+                <line>亦母相目八毛</line>
+                <line>[一云 将會跡母戸八]</line>
+            </version>
+            <version type="working">
+                <line>楽浪の志賀の</line>
+                <line>[一云 比良の]</line>
+                <line>大わだ<verb>淀む</verb>とも昔の人にまたも<verb>逢はめや</verb>も</line>
+                <line>[一云 <verb>逢はむ</verb>と<verb>思へや</verb>]</line>
+            </version>
+        </poem>
+        <poem no="32">
+            <version type="original">
+                <line mora="5">古</line>
+                <line>人尓和礼有哉</line>
+                <line>樂浪乃</line>
+                <line>故京乎</line>
+                <line>見者悲寸</line>
+            </version>
+            <version type="working">
+                <line>古の</line>
+                <line>人に我れ<verb>あれ</verb>や</line>
+                <line>楽浪の</line>
+                <line><adjective>古き</adjective>都を</line>
+                <line><verb>見れば</verb><adjective>悲しき</adjective></line>
+            </version>
+        </poem>
+        <poem no="33">
+            <version type="original">
+                <line>樂浪乃</line>
+                <line>國都美神乃</line>
+                <line>浦佐備而</line>
+                <line>荒有京</line>
+                <line>見者悲毛</line>
+            </version>
+            <version type="working">
+                <line>楽浪の</line>
+                <line>国つ御神の</line>
+                <line>うら<verb>さびて</verb></line>
+                <line><verb infinitive="" form="" verbType="">荒れたる</verb>都</line>
+                <line><verb>見れば</verb><adjective>悲し</adjective>も</line>
+            </version>
+        </poem>
+        <poem no="34">
+            <version type="original">
+                <line>白浪乃</line>
+                <line>濱松之枝乃</line>
+                <line>手向草</line>
+                <line>幾代左右二賀</line>
+                <line>年乃經去良武</line>
+                <line>[一云</line>
+                <line>年者經尓計武]</line>
+            </version>
+            <version type="working">
+                <line>白波の</line>
+                <line>浜松が枝の</line>
+                <line>手向けぐさ</line>
+                <line>幾代までにか</line>
+                <line>年の<verb>経ぬらむ</verb></line>
+                <line>[一云 年は<verb>経にけむ</verb>]</line>
+            </version>
+        </poem>
+        <poem no="35">
+            <version type="original">
+                <line>此也是能</line>
+                <line>倭尓四手者</line>
+                <line>我戀流</line>
+                <line>木路尓有云</line>
+                <line>名二負勢能山</line>
+            </version>
+            <version type="working">
+                <line>これやこの</line>
+                <line>大和に<verb>して</verb>は</line>
+                <line>我が<verb>恋ふる</verb></line>
+                <line>紀路に<verb>ありといふ</verb></line>
+                <line>名に<verb>負ふ</verb>背の山</line>
+            </version>
+        </poem>
+        <poem no="36">
+            <version type="original">
+                <line>八隅知之</line>
+                <line>吾大王之</line>
+                <line>所聞食</line>
+                <line>天下尓</line>
+                <line>國者思毛</line>
+                <line>澤二雖有</line>
+                <line>山川之</line>
+                <line>清河内跡</line>
+                <line>御心乎</line>
+                <line>吉野乃國之</line>
+                <line>花散相</line>
+                <line>秋津乃野邊尓</line>
+                <line>宮柱</line>
+                <line>太敷座波</line>
+                <line>百礒城乃</line>
+                <line>大宮人者</line>
+                <line>船並弖</line>
+                <line>旦川渡</line>
+                <line>舟[競]</line>
+                <line>夕河渡</line>
+                <line>此川乃</line>
+                <line>絶事奈久</line>
+                <line>此山乃</line>
+                <line>弥高[思良]珠</line>
+                <line>水激</line>
+                <line>瀧之宮子波</line>
+                <line>見礼跡不飽可[問]</line>
+            </version>
+            <version type="working">
+                <line>やすみしし</line>
+                <line>我が大君の</line>
+                <line><verb>きこしめす</verb></line>
+                <line>天の下に</line>
+                <line>国はしも</line>
+                <line>さは<verb>にあれ</verb>ども</line>
+                <line>山川の</line>
+                <line><verb>清き</verb>河内と</line>
+                <line>御心を</line>
+                <line>吉野の国の</line>
+                <line>花<verb>散らふ</verb></line>
+                <line>秋津の野辺に</line>
+                <line>宮柱</line>
+                <line>太<verb>敷きませば</verb></line>
+                <line>ももしきの</line>
+                <line>大宮人は</line>
+                <line>舟<verb>並めて</verb></line>
+                <line>朝川<verb>渡る</verb></line>
+                <line>舟<verb>競ひ</verb></line>
+                <line>夕川<verb>渡る</verb></line>
+                <line>この川の</line>
+                <line><verb>絶ゆる</verb>こと<adjective>なく</adjective></line>
+                <line>この山の</line>
+                <line>いや高<verb>知らす</verb></line>
+                <line>水<verb>激る</verb></line>
+                <line>瀧の宮処は</line>
+                <line><verb>見れ</verb>ど<verb>飽かぬ</verb>かも</line>
+            </version>
+        </poem>
+        <poem no="37">
+            <version type="original">
+                <line>雖見飽奴</line>
+                <line>吉野乃河之</line>
+                <line>常滑乃</line>
+                <line>絶事無久</line>
+                <line>復還見牟</line>
+            </version>
+            <version type="working">
+                <line><verb>見れ</verb>ど飽かぬ</line>
+                <line>吉野の川の</line>
+                <line>常滑の</line>
+                <line><verb>絶ゆる</verb>こと<adjective>なく</adjective>また</line>
+                <line><verb>かへり見む</verb></line>
+            </version>
+        </poem>
+        <poem no="38">
+            <version type="original">
+                <line>安見知之</line>
+                <line>吾大王</line>
+                <line>神長柄</line>
+                <line>神佐備世須登</line>
+                <line>[芳]野川</line>
+                <line>多藝津河内尓</line>
+                <line>高殿乎</line>
+                <line>高知座而</line>
+                <line>上立</line>
+                <line>國見乎為[勢][婆]</line>
+                <line>疊有</line>
+                <line>青垣山</line>
+                <line>々神乃</line>
+                <line>奉御調等</line>
+                <line>春部者</line>
+                <line>花挿頭持</line>
+                <line>秋立者</line>
+                <line>黄葉頭[刺]理</line>
+                <line>[一云 黄葉加射之]</line>
+                <line>[逝]副</line>
+                <line>川之神母</line>
+                <line>大御食尓</line>
+                <line>仕奉等</line>
+                <line>上瀬尓</line>
+                <line>鵜川乎立</line>
+                <line>下瀬尓</line>
+                <line>小網刺渡</line>
+                <line>山川母</line>
+                <line>依弖奉流</line>
+                <line>神乃御代鴨</line>
+            </version>
+            <version type="working">
+                <line>やすみしし</line>
+                <line>我が大君</line>
+                <line>神ながら</line>
+                <line>神<verb>さびせす</verb>と</line>
+                <line>吉野川</line>
+                <line>たぎつ河内に</line>
+                <line>高殿を</line>
+                <line>高<verb>知りまして</verb></line>
+                <line><verb>登り立ち</verb></line>
+                <line>国<verb>見をせせば</verb></line>
+                <line><verb>たたなはる</verb></line>
+                <line>青垣山</line>
+                <line>山神の</line>
+                <line><verb>奉る</verb>御調と</line>
+                <line>春へは</line>
+                <line>花<verb>かざし持ち</verb></line>
+                <line>秋<verb>立てば</verb></line>
+                <line>黄葉<verb>かざせり</verb></line>
+                <line>[一云 黄葉<verb>かざし</verb>]</line>
+                <line><verb>行き沿ふ</verb></line>
+                <line>川の神も</line>
+                <line>大御食に</line>
+                <line>仕へ<verb>奉る</verb>と</line>
+                <line>上つ瀬に</line>
+                <line>鵜川を<verb>立ち</verb></line>
+                <line><verb>下つ</verb>瀬に</line>
+                <line>小網<verb>さし渡す</verb></line>
+                <line>山川も</line>
+                <line><verb>依りて仕ふる</verb></line>
+                <line>神の御代かも</line>
+            </version>
+        </poem>
+        <poem no="39">
+            <version type="original">
+                <line>山川毛</line>
+                <line>因而奉流</line>
+                <line>神長柄</line>
+                <line>多藝津河内尓</line>
+                <line>船出為加母</line>
+            </version>
+            <version type="working">
+                <line>山川も</line>
+                <line><verb>依りて仕ふる</verb></line>
+                <line>神ながらたぎつ河内に</line>
+                <line>舟<verb>出せす</verb>かも</line>
+            </version>
+        </poem>
+        <poem no="40">
+            <version type="original">
+                <line>鳴呼見乃浦尓</line>
+                <line>船乗為良武</line>
+                <line>Ｄ嬬等之</line>
+                <line>珠裳乃須十二</line>
+                <line>四寳三都良武香</line>
+            </version>
+            <version type="working">
+                <line>嗚呼見の浦に</line>
+                <line>舟<verb>乗りすらむ</verb></line>
+                <line>をとめらが</line>
+                <line>玉裳の裾に</line>
+                <line>潮<verb>満つらむ</verb>か</line>
+            </version>
+        </poem>
+        <poem no="41">
+            <version type="original">
+                <line>釼著</line>
+                <line>手節乃埼二</line>
+                <line>今[日]毛可母</line>
+                <line>大宮人之</line>
+                <line>玉藻苅良[武]</line>
+            </version>
+            <version type="working">
+                <line>釧着く</line>
+                <line>答志の崎に</line>
+                <line>今日もかも</line>
+                <line>大宮人の</line>
+                <line>玉藻<verb>刈るらむ</verb></line>
+            </version>
+        </poem>
+        <poem no="42">
+            <version type="original">
+                <line>潮左為二</line>
+                <line>五十等兒乃嶋邊</line>
+                <line>榜船荷</line>
+                <line>妹乗良六鹿</line>
+                <line>荒嶋廻乎</line>
+            </version>
+            <version type="working">
+                <line>潮騒に</line>
+                <line>伊良虞の島辺</line>
+                <line><verb>漕ぐ</verb>舟に</line>
+                <line>妹<verb>乗るらむ</verb>か</line>
+                <line><verb>荒き</verb>島廻を</line>
+            </version>
+        </poem>
+        <poem no="43">
+            <version type="original">
+                <line>吾勢枯波</line>
+                <line>何所行良武</line>
+                <line>己津物</line>
+                <line>隠乃山乎</line>
+                <line>今日香越等六</line>
+            </version>
+            <version type="working">
+                <line>我が背子は</line>
+                <line>いづく<verb>行くらむ</verb></line>
+                <line>沖つ藻の</line>
+                <line>名張の山を</line>
+                <line>今日か<verb>越ゆらむ</verb></line>
+            </version>
+        </poem>
+        <poem no="44">
+            <version type="original">
+                <line>吾妹子乎</line>
+                <line>去来見乃山乎</line>
+                <line>高三香裳</line>
+                <line>日本能不所見</line>
+                <line>國遠見可聞</line>
+            </version>
+            <version type="working">
+                <line>我妹子を</line>
+                <line>いざ見の山を</line>
+                <line>高みかも</line>
+                <line>大和の<verb>見えぬ</verb></line>
+                <line>国遠みかも</line>
+            </version>
+        </poem>
+        <poem no="45">
+            <version type="original">
+                <line>八隅知之</line>
+                <line>吾大王</line>
+                <line>高照</line>
+                <line>日之皇子</line>
+                <line>神長柄</line>
+                <line>神佐備世須[等]</line>
+                <line>太敷為</line>
+                <line>京乎置而</line>
+                <line>隠口乃</line>
+                <line>泊瀬山者</line>
+                <line>真木立</line>
+                <line>荒山道乎</line>
+                <line>石根</line>
+                <line>禁樹押靡</line>
+                <line>坂鳥乃</line>
+                <line>朝越座而</line>
+                <line>玉限</line>
+                <line>夕去来者</line>
+                <line>三雪落</line>
+                <line>阿騎乃大野尓</line>
+                <line>旗須為寸</line>
+                <line>四能乎押靡</line>
+                <line>草枕</line>
+                <line>多日夜取世須</line>
+                <line>古昔念而</line>
+            </version>
+            <version type="working">
+                <line>やすみしし</line>
+                <line>我が大君</line>
+                <line>高<verb>照らす</verb></line>
+                <line>日の皇子</line>
+                <line>神ながら</line>
+                <line>神<verb>さびせす</verb>と</line>
+                <line>太<verb>敷かす</verb></line>
+                <line>都を<verb>置きて</verb></line>
+                <line>隠口の</line>
+                <line>初瀬の山は</line>
+                <line>真木<verb>立つ</verb></line>
+                <line><verb>荒き</verb>山道を</line>
+                <line>岩が根</line>
+                <line>禁樹<verb>押しなべ</verb></line>
+                <line>坂鳥の</line>
+                <line>朝<verb>越えまして</verb></line>
+                <line>玉限る</line>
+                <line>夕<verb>去り来れば</verb></line>
+                <line>み雪<verb>降る</verb></line>
+                <line>安騎の大野に</line>
+                <line>旗すすき</line>
+                <line>小竹を<verb>押しなべ</verb></line>
+                <line>草枕</line>
+                <line>旅<verb>宿りせす</verb></line>
+                <line>いにしへ<verb>思ひて</verb></line>
+            </version>
+        </poem>
+        <poem no="46">
+            <version type="original">
+                <line>阿騎乃[野]尓</line>
+                <line>宿旅人</line>
+                <line>打靡</line>
+                <line>寐毛宿良[目]八方</line>
+                <line>古部念尓</line>
+            </version>
+            <version type="working">
+                <line>安騎の野に</line>
+                <line><verb>宿る</verb>旅人</line>
+                <line>うち<verb>靡き</verb></line>
+                <line>寐も<verb>寝らめ</verb>やも</line>
+                <line>いにしへ<verb>思ふ</verb>に</line>
+            </version>
+        </poem>
+        <poem no="47">
+            <version type="original">
+                <line>真草苅</line>
+                <line>荒野者雖有</line>
+                <line>葉</line>
+                <line>過去君之</line>
+                <line>形見跡曽来師</line>
+            </version>
+            <version type="working">
+                <line>ま草<verb>刈る</verb></line>
+                <line>荒野には<verb>あれ</verb>ど</line>
+                <line>黄葉の</line>
+                <line>過ぎにし君が</line>
+                <line>形<verb>見とぞ来し</verb></line>
+            </version>
+        </poem>
+        <poem no="48">
+            <version type="original">
+                <line>東</line>
+                <line>野炎</line>
+                <line>立所見而</line>
+                <line>反見為者</line>
+                <line>月西渡</line>
+            </version>
+            <version type="working">
+                <line>東の</line>
+                <line>野にかぎろひの</line>
+                <line><verb>立つ見えて</verb></line>
+                <line><verb>かへり見すれば</verb></line>
+                <line>月<verb>かたぶきぬ</verb></line>
+            </version>
+        </poem>
+        <poem no="49">
+            <version type="original">
+                <line>日雙斯</line>
+                <line>皇子命乃</line>
+                <line>馬副而</line>
+                <line>御猟立師斯</line>
+                <line>時者来向</line>
+            </version>
+            <version type="working">
+                <line>日並の</line>
+                <line>皇子の命の</line>
+                <line>馬<verb>並めて</verb></line>
+                <line><verb>み狩り立たしし</verb></line>
+                <line>時は<verb>来向ふ</verb></line>
+            </version>
+        </poem>
+        <poem no="50">
+            <version type="original">
+                <line>八隅知之</line>
+                <line>吾大王</line>
+                <line>高照</line>
+                <line>日[乃]皇子</line>
+                <line>荒妙乃</line>
+                <line>藤原我宇倍尓</line>
+                <line>食國乎</line>
+                <line>賣之賜牟登</line>
+                <line>都宮者</line>
+                <line>高所知武等</line>
+                <line>神長柄</line>
+                <line>所念奈戸二</line>
+                <line>天地毛</line>
+                <line>縁而有許曽</line>
+                <line>磐走</line>
+                <line>淡海乃國之</line>
+                <line>衣手能</line>
+                <line>田上山之</line>
+                <line>真木佐苦</line>
+                <line>桧乃嬬手乎</line>
+                <line>物乃布能</line>
+                <line>八十氏河尓</line>
+                <line>玉藻成</line>
+                <line>浮倍流礼</line>
+                <line>其乎取登</line>
+                <line>散和久御民毛</line>
+                <line>家忘</line>
+                <line>身毛多奈不知</line>
+                <line>鴨自物</line>
+                <line>水尓浮居而</line>
+                <line>吾作</line>
+                <line>日之御門尓</line>
+                <line>不知國</line>
+                <line>依巨勢道従</line>
+                <line>我國者</line>
+                <line>常世尓成牟</line>
+                <line>圖負留</line>
+                <line>神龜毛</line>
+                <line>新代登</line>
+                <line>泉乃河尓</line>
+                <line>持越流</line>
+                <line>真木乃都麻手乎</line>
+                <line>百不足</line>
+                <line>五十日太尓作</line>
+                <line>泝須[良]牟</line>
+                <line>伊蘇波久見者</line>
+                <line>神随尓有之</line>
+            </version>
+            <version type="working">
+                <line>やすみしし</line>
+                <line>我が大君</line>
+                <line>高<verb>照らす</verb></line>
+                <line>日の皇子</line>
+                <line>荒栲の</line>
+                <line>藤原が上に</line>
+                <line><verb>食す</verb>国を</line>
+                <line><verb>見したまはむ</verb>と</line>
+                <line>みあらかは</line>
+                <line>高<verb>知らさむ</verb>と</line>
+                <line>神ながら</line>
+                <line><verb>思ほすなへに</verb></line>
+                <line>天地も</line>
+                <line><verb>寄りてあれこそ</verb></line>
+                <line>石<verb>走る</verb></line>
+                <line>近江の国の</line>
+                <line>衣手の</line>
+                <line>田上山の</line>
+                <line>真木さく</line>
+                <line>桧のつまでを</line>
+                <line>もののふの</line>
+                <line>八十宇治川に</line>
+                <line>玉<verb>藻なす</verb></line>
+                <line><verb>浮かべ流せれ</verb></line>
+                <line>其を<verb>取る</verb>と</line>
+                <line>騒く御民も</line>
+                <line>家<verb>忘れ</verb></line>
+                <line>身もたな<verb>知らず</verb></line>
+                <line>鴨じもの</line>
+                <line>水に<verb>浮き居て</verb></line>
+                <line>我が<verb>作る</verb></line>
+                <line>日の御門に</line>
+                <line><verb>知らぬ</verb>国</line>
+                <line>寄し巨勢道より</line>
+                <line>我が国は</line>
+                <line>常世に<verb>ならむ</verb></line>
+                <line>図<verb>負へる</verb></line>
+                <line><adjective>くすしき</adjective>亀も</line>
+                <line>新代と</line>
+                <line>泉の川に</line>
+                <line><verb>持ち越せる</verb></line>
+                <line>真木のつまでを</line>
+                <line>百<verb>足らず</verb></line>
+                <line>筏に<verb>作り</verb></line>
+                <line><verb>泝すらむ</verb></line>
+                <line>いそはく<verb>見れば</verb></line>
+                <line>神ながら<verb>にあらし</verb></line>
+            </version>
+        </poem>
+        <poem no="51">
+            <version type="original">
+                <line>Ｆ女乃</line>
+                <line>袖吹反</line>
+                <line>明日香風</line>
+                <line>京都乎遠見</line>
+                <line>無用尓布久</line>
+            </version>
+            <version type="working">
+                <line>采女の</line>
+                <line>袖<verb>吹きかへす</verb></line>
+                <line>明日香風</line>
+                <line>都を<adjective>遠み</adjective></line>
+                <line>いたづらに<verb>吹く</verb></line>
+            </version>
+        </poem>
+        <poem no="52">
+            <version type="original">
+                <line>八隅知之</line>
+                <line>和期大王</line>
+                <line>高照</line>
+                <line>日之皇子</line>
+                <line>麁妙乃</line>
+                <line>藤井我原尓</line>
+                <line>大御門</line>
+                <line>始賜而</line>
+                <line>埴安乃</line>
+                <line>堤上尓</line>
+                <line>在立之</line>
+                <line>見之賜者</line>
+                <line>日本乃</line>
+                <line>青香具山者</line>
+                <line>日經乃</line>
+                <line>大御門尓</line>
+                <line>春山[跡]</line>
+                <line>之美佐備立有</line>
+                <line>畝火乃</line>
+                <line>此美豆山者</line>
+                <line>日緯能</line>
+                <line>大御門尓</line>
+                <line>弥豆山跡</line>
+                <line>山佐備伊座</line>
+                <line>耳[為]之</line>
+                <line>青菅山者</line>
+                <line>背友乃</line>
+                <line>大御門尓</line>
+                <line>宣名倍</line>
+                <line>神佐備立有</line>
+                <line>名細</line>
+                <line>吉野乃山者</line>
+                <line>影友乃</line>
+                <line>大御門[従]</line>
+                <line>雲居尓曽</line>
+                <line>遠久有家留</line>
+                <line>高知也</line>
+                <line>天之御蔭</line>
+                <line>天知也</line>
+                <line>日[之]御影乃</line>
+                <line>水許曽婆</line>
+                <line>常尓有米</line>
+                <line>御井之清水</line>
+            </version>
+            <version type="working">
+                <line>やすみしし</line>
+                <line>我ご大君</line>
+                <line>高<verb>照らす</verb></line>
+                <line>日の皇子</line>
+                <line>荒栲の</line>
+                <line>藤井が原に</line>
+                <line>大御門</line>
+                <line><verb>始めたまひて</verb></line>
+                <line>埴安の</line>
+                <line>堤の上に</line>
+                <line><verb>あり立たし</verb></line>
+                <line><verb>見したまへば</verb></line>
+                <line>大和の</line>
+                <line>青香具山は</line>
+                <line>日の経の</line>
+                <line>大御門に</line>
+                <line>春山と</line>
+                <line><verb>茂みさび立てり</verb></line>
+                <line>畝傍の</line>
+                <line>この瑞山は</line>
+                <line>日の緯の</line>
+                <line>大御門に</line>
+                <line>瑞山と</line>
+                <line>山<verb>さびいます</verb></line>
+                <line>耳成の</line>
+                <line>青菅山は</line>
+                <line>背面の</line>
+                <line>大御門に</line>
+                <line>よろしなへ</line>
+                <line>神<verb>さび立てり</verb></line>
+                <line>名ぐはし</line>
+                <line>吉野の山は</line>
+                <line>かげともの</line>
+                <line>大御門ゆ</line>
+                <line>雲居にぞ</line>
+                <line><adjective>遠く</adjective><verb>ありける</verb></line>
+                <line>高知るや</line>
+                <line>天の御蔭</line>
+                <line>天知るや</line>
+                <line>日の御蔭の</line>
+                <line>水こそば</line>
+                <line><verb>とこしへにあらめ</verb></line>
+                <line>御井のま清水</line>
+            </version>
+        </poem>
+        <poem no="53">
+            <version type="original">
+                <line>藤原之</line>
+                <line>大宮都加倍</line>
+                <line>安礼衝哉</line>
+                <line>處女之友者</line>
+                <line>[乏]吉[呂]賀聞</line>
+            </version>
+            <version type="working">
+                <line>藤原の</line>
+                <line>大宮仕へ</line>
+                <line><verb>生れ付くや</verb></line>
+                <line>娘子がともは</line>
+                <line><adjective>羨しきろ</adjective>かも</line>
+            </version>
+        </poem>
+        <poem no="54">
+            <version type="original">
+                <line>巨勢山乃</line>
+                <line>列々椿</line>
+                <line>都良々々尓</line>
+                <line>見乍思奈</line>
+                <line>許湍乃春野乎</line>
+            </version>
+            <version type="working">
+                <line>巨勢山の</line>
+                <line>つらつら椿</line>
+                <line>つらつらに</line>
+                <line><verb>見つつ</verb>偲はな</line>
+                <line>巨勢の春野を</line>
+            </version>
+        </poem>
+        <poem no="55">
+            <version type="original">
+                <line>朝毛吉</line>
+                <line>木人乏母</line>
+                <line>亦打山</line>
+                <line>行来跡見良武</line>
+                <line>樹人友師母</line>
+            </version>
+            <version type="working">
+                <line>あさもよし</line>
+                <line>紀人羨しも</line>
+                <line>真土山</line>
+                <line><verb>行き来</verb>と<verb>見らむ</verb></line>
+                <line>紀人羨しも</line>
+            </version>
+        </poem>
+        <poem no="56">
+            <version type="original">
+                <line>河上乃</line>
+                <line>列々椿</line>
+                <line>都良々々尓</line>
+                <line>雖見安可受</line>
+                <line>巨勢能春野者</line>
+            </version>
+            <version type="working">
+                <line>川上の</line>
+                <line>つらつら椿</line>
+                <line>つらつらに</line>
+                <line><verb>見れども</verb><verb>飽かず</verb></line>
+                <line>巨勢の春野は</line>
+            </version>
+        </poem>
+        <poem no="57">
+            <version type="original">
+                <line>引馬野尓</line>
+                <line>仁保布榛原</line>
+                <line>入乱</line>
+                <line>衣尓保波勢</line>
+                <line>多鼻能知師尓</line>
+            </version>
+            <version type="working">
+                <line>引間野に</line>
+                <line><verb>にほふ</verb>榛原</line>
+                <line><verb>入り乱れ</verb></line>
+                <line><verb>衣にほはせ</verb></line>
+                <line>旅の<verb>しるしに</verb></line>
+            </version>
+        </poem>
+        <poem no="58">
+            <version type="original">
+                <line>何所尓可</line>
+                <line>船泊為良武</line>
+                <line>安礼乃埼</line>
+                <line>榜多味行之</line>
+                <line>棚無小舟</line>
+            </version>
+            <version type="working">
+                <line>いづくにか</line>
+                <line>船<verb>泊てすらむ</verb></line>
+                <line>安礼の崎</line>
+                <line>漕ぎ廻み<verb>行きし</verb></line>
+                <line>棚<adjective>無し</adjective>小舟</line>
+            </version>
+        </poem>
+        <poem no="59">
+            <version type="original">
+                <line>流經</line>
+                <line>妻吹風之</line>
+                <line>寒夜尓</line>
+                <line>吾勢能君者</line>
+                <line>獨香宿良[武]</line>
+            </version>
+            <version type="working">
+                <line><verb>流らふる</verb></line>
+                <line>妻<verb>吹く</verb>風の</line>
+                <line><adjective>寒き</adjective>夜に</line>
+                <line>我が背の君は</line>
+                <line>ひとりか<verb>寝らむ</verb></line>
+            </version>
+        </poem>
+        <poem no="60">
+            <version type="original">
+                <line>暮相而</line>
+                <line>朝面無美</line>
+                <line>隠尓加</line>
+                <line>氣長妹之</line>
+                <line>廬利為里計武</line>
+            </version>
+            <version type="working">
+                <line>宵に<verb>逢ひて</verb></line>
+                <line>朝面<adjective>無み</adjective></line>
+                <line>名張にか</line>
+                <line>日<adjective>長く</adjective>妹が</line>
+                <line><verb>廬りせりけむ</verb></line>
+            </version>
+        </poem>
+        <poem no="61">
+            <version type="original">
+                <line>[大]夫之</line>
+                <line>得物矢手挿</line>
+                <line>立向</line>
+                <line>射流圓方波</line>
+                <line>見尓清潔之</line>
+            </version>
+            <version type="working">
+                <line>大丈夫の</line>
+                <line>さつ矢手挟み</line>
+                <line><verb>立ち</verb><verb>向ひ</verb></line>
+                <line><verb infinitive="" form="" verbType="">射る</verb>圓方は</line>
+                <line><verb>見るにさやけし</verb></line>
+            </version>
+        </poem>
+        <poem no="62">
+            <version type="original">
+                <line>在根良</line>
+                <line>對馬乃渡</line>
+                <line>々中尓</line>
+                <line>[幣]取向而</line>
+                <line>早還許年</line>
+            </version>
+            <version type="working">
+                <line>在り嶺よし</line>
+                <line>対馬の渡り</line>
+                <line>海中に</line>
+                <line>幣<verb>取り向けて</verb></line>
+                <line><adjective>早</adjective><verb>帰り来ね</verb></line>
+            </version>
+        </poem>
+        <poem no="63">
+            <version type="original">
+                <line>去来子等</line>
+                <line>早日本邊</line>
+                <line>大伴乃</line>
+                <line>御津乃濱松</line>
+                <line>待戀奴良武</line>
+            </version>
+            <version type="working">
+                <line>いざ子ども</line>
+                <line><adjective>早く</adjective>日本へ</line>
+                <line>大伴の</line>
+                <line>御津の浜松</line>
+                <line><verb>待ち恋ひぬらむ</verb></line>
+            </version>
+        </poem>
+        <poem no="64">
+            <version type="original">
+                <line>葦邊行</line>
+                <line>鴨之羽我比尓</line>
+                <line>霜零而</line>
+                <line>寒暮夕</line>
+                <line>[倭]之所念</line>
+            </version>
+            <version type="working">
+                <line>葦辺<verb>行く</verb></line>
+                <line>鴨の羽交ひに</line>
+                <line>霜<verb>降りて</verb></line>
+                <line><adjective>寒き</adjective>夕は</line>
+                <line>大和し<verb>思ほゆ</verb></line>
+            </version>
+        </poem>
+        <poem no="65">
+            <version type="original">
+                <line>霰打</line>
+                <line>安良礼松原</line>
+                <line>住吉[乃]</line>
+                <line>弟日娘与</line>
+                <line>見礼常不飽香聞</line>
+            </version>
+            <version type="working">
+                <line>霰<verb>打つ</verb></line>
+                <line>安良礼松原</line>
+                <line>住吉の</line>
+                <line>弟日娘女と</line>
+                <line><verb>見れど</verb><verb>飽かぬ</verb>かも</line>
+            </version>
+        </poem>
+        <poem no="66">
+            <version type="original">
+                <line>大伴乃</line>
+                <line>高師能濱乃</line>
+                <line>松之根乎</line>
+                <line>枕宿杼</line>
+                <line>家之所偲由</line>
+            </version>
+            <version type="working">
+                <line>大伴の</line>
+                <line>高師の浜の</line>
+                <line>松が根を</line>
+                <line><verb>枕き寝れど</verb></line>
+                <line>家し<verb>偲はゆ</verb></line>
+            </version>
+        </poem>
+        <poem no="67">
+            <version type="original">
+                <line>旅尓之而</line>
+                <line>物戀[之伎][尓</line>
+                <line>鶴之]鳴毛</line>
+                <line>不所聞有世者</line>
+                <line>孤悲而死萬思</line>
+            </version>
+            <version type="working">
+                <line>旅<verb>にして</verb></line>
+                <line>もの<verb>恋ほしきに</verb></line>
+                <line>鶴が音も</line>
+                <line><verb>聞こえず</verb><verb>ありせば</verb></line>
+                <line><verb>恋ひて死なまし</verb></line>
+            </version>
+        </poem>
+        <poem no="68">
+            <version type="original">
+                <line>大伴乃</line>
+                <line>美津能濱尓有</line>
+                <line>忘貝</line>
+                <line>家尓有妹乎</line>
+                <line>忘而念哉</line>
+            </version>
+            <version type="working">
+                <line>大伴の</line>
+                <line>御津の<verb>浜なる</verb></line>
+                <line><verb>忘れ</verb>貝</line>
+                <line>家<verb>なる</verb>妹を</line>
+                <line><verb>忘れて思へや</verb></line>
+            </version>
+        </poem>
+        <poem no="69">
+            <version type="original">
+                <line>草枕</line>
+                <line>客去君跡</line>
+                <line>知麻世婆</line>
+                <line>[崖]之[埴]布尓</line>
+                <line>仁寶播散麻思[呼]</line>
+            </version>
+            <version type="working">
+                <line>草枕</line>
+                <line>旅<verb>行く</verb>君と</line>
+                <line><verb>知らませば</verb></line>
+                <line>岸の埴生に</line>
+                <line>にほは<verb>さまし</verb>を</line>
+            </version>
+        </poem>
+        <poem no="70">
+            <version type="original">
+                <line>倭尓者</line>
+                <line>鳴而歟来良武</line>
+                <line>呼兒鳥</line>
+                <line>象乃中山</line>
+                <line>呼曽越奈流</line>
+            </version>
+            <version type="working">
+                <line>大和には</line>
+                <line><verb>鳴きて</verb>か<verb>来らむ</verb></line>
+                <line>呼子鳥象の中山</line>
+                <line><verb>呼び</verb>ぞ<verb>越ゆなる</verb></line>
+            </version>
+        </poem>
+        <poem no="71">
+            <version type="original">
+                <line>倭戀</line>
+                <line>寐之不所宿尓</line>
+                <line>情無</line>
+                <line>此渚崎[未]尓</line>
+                <line>多津鳴倍思哉</line>
+            </version>
+            <version type="working">
+                <line>大和恋ひ</line>
+                <line>寐の<verb>寝らえぬに</verb></line>
+                <line>心<adjective>なく</adjective></line>
+                <line>この洲崎廻に</line>
+                <line>鶴<verb>鳴くべしや</verb></line>
+            </version>
+        </poem>
+        <poem no="72">
+            <version type="original">
+                <line>玉藻苅</line>
+                <line>奥敝波不[榜]</line>
+                <line>敷妙[乃]</line>
+                <line>枕之邊人</line>
+                <line>忘可祢津藻</line>
+            </version>
+            <version type="working">
+                <line>玉藻<verb>刈る</verb></line>
+                <line>沖へは漕がじ</line>
+                <line>敷栲の</line>
+                <line>枕のあたり</line>
+                <line><verb>忘れかねつ</verb>も</line>
+            </version>
+        </poem>
+        <poem no="73">
+            <version type="original">
+                <line>吾妹子乎</line>
+                <line>早見濱風</line>
+                <line>倭有</line>
+                <line>吾松椿</line>
+                <line>不吹有勿勤</line>
+            </version>
+            <version type="working">
+                <line>我妹子を</line>
+                <line>早見浜風</line>
+                <line>大和<verb>なる</verb></line>
+                <line>我を松椿</line>
+                <line><verb>吹かざるなゆめ</verb></line>
+            </version>
+        </poem>
+        <poem no="74">
+            <version type="original">
+                <line>見吉野乃</line>
+                <line>山下風之</line>
+                <line>寒久尓</line>
+                <line>為當也今夜毛</line>
+                <line>我獨宿牟</line>
+            </version>
+            <version type="working">
+                <line>み吉野の</line>
+                <line>山のあらしの</line>
+                <line><adjective>寒け</adjective>くには</line>
+                <line>たや今夜も</line>
+                <line>我が<verb>独り寝む</verb></line>
+            </version>
+        </poem>
+        <poem no="75">
+            <version type="original">
+                <line>宇治間山</line>
+                <line>朝風寒之</line>
+                <line>旅尓師手</line>
+                <line>衣應借</line>
+                <line>妹毛有勿久尓</line>
+            </version>
+            <version type="working">
+                <line>宇治間山</line>
+                <line>朝風<adjective>寒し</adjective></line>
+                <line>旅にして</line>
+                <line>衣<verb>貸すべき</verb></line>
+                <line>妹も<verb>あらなくに</verb></line>
+            </version>
+        </poem>
+        <poem no="76">
+            <version type="original">
+                <line>大夫之</line>
+                <line>鞆乃音為奈利</line>
+                <line>物部乃</line>
+                <line>大臣</line>
+                <line>楯立良思母</line>
+            </version>
+            <version type="working">
+                <line>ますらをの</line>
+                <line>鞆の<verb>音すなり</verb></line>
+                <line>物部の</line>
+                <line>大臣</line>
+                <line>盾<verb>立つらしも</verb></line>
+            </version>
+        </poem>
+        <poem no="77">
+            <version type="original">
+                <line>吾大王</line>
+                <line>物莫御念</line>
+                <line>須賣神乃</line>
+                <line>嗣而賜流</line>
+                <line>吾莫勿久尓</line>
+            </version>
+            <version type="working">
+                <line>吾が大君</line>
+                <line>ものな<verb>思ほし</verb></line>
+                <line>皇神の</line>
+                <line><verb>継ぎて賜へる</verb></line>
+                <line>我<verb>なけなくに</verb></line>
+            </version>
+        </poem>
+        <poem no="78">
+            <version type="original">
+                <line>飛鳥</line>
+                <line>明日香能里乎</line>
+                <line>置而伊奈婆</line>
+                <line>君之當者</line>
+                <line>不所見香聞安良武</line>
+                <line>[一云 君之當乎 不見而香毛安良牟]</line>
+            </version>
+            <version type="working">
+                <line><verb>飛ぶ</verb>鳥の</line>
+                <line>明日香の里を</line>
+                <line><verb>置きて去なば</verb></line>
+                <line>君があたりは</line>
+                <line><verb>見えずかもあらむ</verb></line>
+                <line>[一云 君があたりを<verb>見ずてかもあらむ</verb>]</line>
+            </version>
+        </poem>
+        <poem no="79">
+            <version type="original">
+                <line>天皇乃</line>
+                <line>御命畏美</line>
+                <line>柔備尓之</line>
+                <line>家乎擇</line>
+                <line>隠國乃</line>
+                <line>泊瀬乃川尓</line>
+                <line>Ｈ浮而</line>
+                <line>吾行河乃</line>
+                <line>川隈之</line>
+                <line>八十阿不落</line>
+                <line>万段</line>
+                <line>顧為乍</line>
+                <line>玉桙乃</line>
+                <line>道行晩</line>
+                <line>青[丹]吉</line>
+                <line>楢乃京師乃</line>
+                <line>佐保川尓</line>
+                <line>伊去至而</line>
+                <line>我宿有</line>
+                <line>衣乃上従</line>
+                <line>朝月夜</line>
+                <line>清尓見者</line>
+                <line>栲乃穂尓</line>
+                <line>夜之霜落</line>
+                <line>磐床等</line>
+                <line>川之[水]凝</line>
+                <line>冷夜乎</line>
+                <line>息言無久</line>
+                <line>通乍</line>
+                <line>作家尓</line>
+                <line>千代二手</line>
+                <line>来座多公与</line>
+                <line>吾毛通武</line>
+            </version>
+            <version type="working">
+                <line>大君の</line>
+                <line>命畏み</line>
+                <line><verb>柔びにし</verb></line>
+                <line>家を<verb>置き</verb></line>
+                <line>こもりくの</line>
+                <line>泊瀬の川に</line>
+                <line>舟<verb>浮けて</verb></line>
+                <line>我が<verb>行く</verb>川の</line>
+                <line>川隈の</line>
+                <line>八十隈<verb>おちず</verb></line>
+                <line>万たび</line>
+                <line><verb>かへり見しつつ</verb></line>
+                <line>玉桙の</line>
+                <line>道<verb>行き暮らし</verb></line>
+                <line>あをによし</line>
+                <line>奈良の都の</line>
+                <line>佐保川に</line>
+                <line><verb>い行き至りて</verb></line>
+                <line>我が<verb>寝たる</verb></line>
+                <line>衣の上ゆ</line>
+                <line>朝月夜</line>
+                <line>さやかに<verb>見れば</verb></line>
+                <line>栲の穂に</line>
+                <line>夜の霜<verb>降り</verb></line>
+                <line>岩床と</line>
+                <line>川の水<verb>凝り</verb></line>
+                <line>寒き夜を</line>
+                <line><verb>息む</verb>こと<adjective>なく</adjective></line>
+                <line><verb>通ひつつ</verb></line>
+                <line><verb>作れる</verb>家に</line>
+                <line>千代までに</line>
+                <line><verb>来ませ</verb>大君よ</line>
+                <line>我れも<verb>通はむ</verb></line>
+            </version>
+        </poem>
+        <poem no="80">
+            <version type="original">
+                <line>青丹吉</line>
+                <line>寧樂乃家尓者</line>
+                <line>万代尓</line>
+                <line>吾母将通</line>
+                <line>忘跡念勿</line>
+            </version>
+            <version type="working">
+                <line>あをによし</line>
+                <line>奈良の家には</line>
+                <line>万代に</line>
+                <line>我れも通はむ</line>
+                <line><verb>忘る</verb>と<verb>思ふ</verb>な</line>
+            </version>
+        </poem>
+        <poem no="81">
+            <version type="original">
+                <line>山邊乃</line>
+                <line>御井乎見我弖利</line>
+                <line>神風乃</line>
+                <line>伊勢處女等</line>
+                <line>相見鶴鴨</line>
+            </version>
+            <version type="working">
+                <line>山辺の</line>
+                <line>御井を<verb>見がてり</verb></line>
+                <line>神風の</line>
+                <line>伊勢娘子ども</line>
+                <line><verb>あひ見つる</verb>かも</line>
+            </version>
+        </poem>
+        <poem no="82">
+            <version type="original">
+                <line>浦佐夫流</line>
+                <line>情佐麻[祢]之</line>
+                <line>久堅乃</line>
+                <line>天之四具礼能</line>
+                <line>流相見者</line>
+            </version>
+            <version type="working">
+                <line>うら<verb>さぶる</verb></line>
+                <line>心さまねし</line>
+                <line>ひさかたの</line>
+                <line>天のしぐれの</line>
+                <line><verb>流らふ見れば</verb></line>
+            </version>
+        </poem>
+        <poem no="83">
+            <version type="original">
+                <line>海底</line>
+                <line>奥津白波</line>
+                <line>立田山</line>
+                <line>何時鹿越奈武</line>
+                <line>妹之當見武</line>
+            </version>
+            <version type="working">
+                <line>海の底</line>
+                <line>沖つ白波</line>
+                <line>龍田山</line>
+                <line>いつか<verb>越えなむ</verb></line>
+                <line>妹が<verb>あたり見む</verb></line>
+            </version>
+        </poem>
+        <poem no="84">
+            <version type="original">
+                <line>秋去者</line>
+                <line>今毛見如</line>
+                <line>妻戀尓</line>
+                <line>鹿将鳴山曽</line>
+                <line>高野原之宇倍</line>
+            </version>
+            <version type="working">
+                <line>秋さらば</line>
+                <line>今も<verb>見る</verb>ごと</line>
+                <line>妻恋ひに</line>
+                <line>鹿<verb>鳴かむ</verb>山ぞ</line>
+                <line>高野原の上</line>
+            </version>
+        </poem>
+    </scroll>
+</manyoshu>
