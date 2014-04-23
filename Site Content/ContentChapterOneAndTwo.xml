@@ -1,149 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 1. xml:id: dinstinct
+            2. active =" @xml:id"
+            3. Degree/family relationship
+            -<letter name ="" active="#pp*" passive="#pp* #pp*"/>
+            4. XQuery: court(letter[@person) 
+            -->
 <authors>
     <personList> 
-        <person xml:id="author" origin=""> 
+        <person xml:id="kakinomotoNoHitomaro"> 
             <personName>柿本人麻呂</personName>
-            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+            <relation name ="imperialPoet" active="emperorTemmu"/>
+            <!-- According to the Edo period scholar Kamo no Mabuchi, 
+                he served under Prince Kusakabe, and while this is often held as true, 
+                there is actually very little concrete evidence for this claim. 
+                On the other hand, since he presented poems to numerous princes and princesses 
+                (such as Yuge no Miko (弓削皇子), Prince Toneri, and Niitabeshin no U (新田部親王)), 
+                it is thought to be unlikely that he was in the service of a single prince. Others, 
+                such as the Japanese scholars Itō Haku and Hashimoto Tatsuo, believe that he was an 
+                imperial poet of the court, but no such position as "imperial poet" existed during 
+                the Asuka period. The group of Hitomaro's poems which can be dated within a certain 
+                period does overlap approximately with Empress Jitō's ascension and death, and so it 
+                is thought that the empress was a motivational force -->
+            <relation name ="husband" active="yosami"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeYuge" gender="m"> 
             <personName>弓削皇子</personName>
-            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+            <relation name ="son" active="emperorTenmu"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="empressIwa" gender="f"> 
             <personName>磐姫皇后</personName>
-            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+            <!--  <relation name ="wife" active="仁徳天皇"/>-->
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princessNukada" gender="f"> 
             <personName>額田王</personName>
-            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+            <relation name ="wife" active="emperorTenmu"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="takechiFuruhito" gender="m"> 
             <personName>高市黒人</personName>
-            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+            <relation name ="imperialPoet" active="emperorTemmu"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="empressKogyoku" gender="f"> 
             <personName>中皇命</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princessKagami" gender="m"> 
             <personName>鏡王女</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princessOku" gender="f"> 
             <personName>大伯皇女</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="yamanoueNoOkura" gender="m"> 
             <personName>山上憶良</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="otomoNoYakamochi" gender="m"> 
             <personName>大伴家持</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="emperorYuryaku" gender="m"> 
             <personName>雄略天皇</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="emperorJomei" gender="m"> 
             <personName>舒明天皇</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeIkusa" gender="m"> 
             <personName>軍王</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="emperorTenji" gender="m"> 
             <personName>中大兄</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="inoENoOOKimi" gender="m"> 
             <personName>井戸王</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="emperorTemmu" gender="m"> 
             <personName>大海人</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="empressJito" gender="f"> 
             <personName>持統天皇</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="empressGenmei" gender="f"> 
             <personName>阿閇皇女</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="wifeOfTagimaMaro" gender="f"> 
             <personName>當麻真人麻呂妻</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="isonokamiNoMaro" gender="m"> 
             <personName>石上麻呂</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeShiki" gender="m"> 
             <personName>志貴皇子</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="ladyFuki" gender="f"> 
             <personName>誉謝女王</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeNaga" gender="m"> 
             <personName>長皇子</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeNagaya" gender="m"> 
             <personName>長屋王</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princessMinabe" gender="f"> 
             <personName>御名部皇女</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="oSadaNoOOKimi" gender="m"> 
             <personName>長田王</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="meNoZenji" gender="m"> 
             <personName>久米禅師</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="emperorTenmu" gender="m"> 
             <personName>天武天皇</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="ladyFujiwara" gender="f"> 
             <personName>藤原夫人</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeOtsu" gender="m"> 
             <personName>大津皇子</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="ishiKaWaNoUchiMi" gender="f"> 
             <personName>石川郎女</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princessTajima" gender="f"> 
             <personName>但馬皇女</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="naganoOkiMaro" gender="m"> 
             <personName>長意吉麻呂</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="empressYamatoHime" gender="f"> 
             <personName>倭皇后</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="princeToneri" gender="m"> 
             <personName>舎人皇子</personName>
             <relation name ="" active="#pp*" passive="#pp* #pp*"/>
         </person>
-        <person xml:id="author" origin=""> 
+        <person xml:id="yosami" gender="f"> 
             <personName>柿本朝臣人麻呂妻依羅娘子</personName>
-            <relation name ="" active="#pp*" passive="#pp* #pp*"/>
+            <relation name ="wife" active="kakinomotoNoHitomaro"/>
         </person>
     </personList>
     <author>
@@ -859,7 +877,7 @@
     <author>
         <profile>
             <name type="Japanese">磐姫皇后</name>
-            <name type="Romanization">Princess Iwa</name>
+            <name type="Romanization">Empress Iwa</name>
             <date>?-347</date>
             <title>princess</title>
         </profile>
@@ -1378,6 +1396,7 @@
     <author>
         <profile>
             <name type="Japanese">井戸王</name>
+            <name type="Romanization">Ino e no o o kimi</name>
         </profile>
         <book no="1" number="1">
             <poem no="19">
@@ -1679,6 +1698,7 @@
     <author>
         <profile>
             <name type="Japanese">長田王</name>
+            <name type="Romanization">O Sada no o o kimi</name>
         </profile>
         <book no="1" number="3">
             <poem no="81">
@@ -1709,6 +1729,7 @@
     <author>
         <profile>
             <name type="Japanese">久米禅師</name>
+            <name type="Romanization">Me no zenji</name>
         </profile>
         <book no="2" number="5">
             <poem no="96">
@@ -1796,6 +1817,7 @@
     <author>
         <profile>
             <name type="Japanese">石川郎女</name>
+            <name type="Romanization">Ishi ka wa no uchi mi</name>
             <period>Nara</period>
             <title/>
         </profile>
@@ -1854,6 +1876,7 @@
     <author>
         <profile>
             <name type="Japanese">長意吉麻呂</name>
+            <name type="Romanization">Nagano-oki maro</name>
         </profile>
         <book no="2" number="2">
             <poem no="143">

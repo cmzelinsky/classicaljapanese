@@ -1,0 +1,1824 @@
+<?xml version="1.0" encoding="UTF-8"?><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Election results</title>
+      <link rel="stylesheet" type="text/css" href="http://www.obdurodon.org/css/style.css" />
+      <link rel="stylesheet" type="text/css" href="style.css" />
+      <link rel="stylesheet" type="text/css" href="election.css" /><script type="text/javascript" src="nature.js">//</script></head>
+   <body>
+      <h1>Results of 2012 US presidential election</h1>
+      <p>Data scraped from <a href="http://en.wikipedia.org/wiki/United_States_presidential_election,_2012">http://en.wikipedia.org/wiki/United_States_presidential_election,_2012</a>.
+         Click on a bar to see the votes for that state.
+      </p>
+      <div id="svg-wrap">
+         <svg xmlns="http://www.w3.org/2000/svg" height="375">
+            <g transform="translate(30, 330)">
+               <line x1="20" x2="20" y1="0" y2="-320" stroke="black" stroke-width="1"></line>
+               <line x1="20" x2="1861" y1="0" y2="0" stroke="black" stroke-width="1"></line>
+               <text x="10" y="5" text-anchor="end">0%</text>
+               <text x="10" y="-145" text-anchor="end">50%</text>
+               <text x="10" y="-295" text-anchor="end">100%</text>
+               <g id="DC" class="wrapper">
+                  <text x="25" y="20" text-anchor="middle">DC</text>
+                  <text x="25" y="35" text-anchor="middle">3</text>
+                  <rect x="22" y="-274.0914246264609" stroke="black" stroke-width=".5" fill="blue" width="6" height="274.0914246264609"></rect>
+                  <rect x="22" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="21.373095320282065"></rect>
+                  <rect x="22" y="-278.62690467971794" stroke="black" stroke-width=".5" fill="yellow" width="6" height="2.0143991321071057"></rect>
+                  <rect x="22" y="-276.6125055476108" stroke="black" stroke-width=".5" fill="green" width="6" height="2.521080921149958"></rect>
+               </g>
+               <g id="HI" class="wrapper">
+                  <text x="47" y="20" text-anchor="middle">HI</text>
+                  <text x="47" y="35" text-anchor="middle">4</text>
+                  <rect x="43" y="-211.63462888256288" stroke="black" stroke-width=".5" fill="blue" width="8" height="211.63462888256288"></rect>
+                  <rect x="43" y="-300" stroke="black" stroke-width=".5" fill="red" width="8" height="83.51954600162472"></rect>
+                  <rect x="43" y="-216.4804539983753" stroke="black" stroke-width=".5" fill="yellow" width="8" height="2.649704629503911"></rect>
+                  <rect x="43" y="-213.83074936887138" stroke="black" stroke-width=".5" fill="green" width="8" height="2.196120486308479"></rect>
+               </g>
+               <g id="VT" class="wrapper">
+                  <text x="69" y="20" text-anchor="middle">VT</text>
+                  <text x="69" y="35" text-anchor="middle">3</text>
+                  <rect x="66" y="-202.32513269064125" stroke="black" stroke-width=".5" fill="blue" width="6" height="202.32513269064125"></rect>
+                  <rect x="66" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="94.13385506932408"></rect>
+                  <rect x="66" y="-205.86614493067592" stroke="black" stroke-width=".5" fill="yellow" width="6" height="3.541012240034662"></rect>
+                  <rect x="66" y="-202.32513269064125" stroke="black" stroke-width=".5" fill="green" width="6" height="0"></rect>
+               </g>
+               <g id="RI" class="wrapper">
+                  <text x="91" y="20" text-anchor="middle">RI</text>
+                  <text x="91" y="35" text-anchor="middle">4</text>
+                  <rect x="87" y="-189.04966510805005" stroke="black" stroke-width=".5" fill="blue" width="8" height="189.04966510805005"></rect>
+                  <rect x="87" y="-300" stroke="black" stroke-width=".5" fill="red" width="8" height="106.34940694336625"></rect>
+                  <rect x="87" y="-193.65059305663377" stroke="black" stroke-width=".5" fill="yellow" width="8" height="2.965283168745825"></rect>
+                  <rect x="87" y="-190.68530988788794" stroke="black" stroke-width=".5" fill="green" width="8" height="1.6356447798378797"></rect>
+               </g>
+               <g id="NY" class="wrapper">
+                  <text x="139" y="20" text-anchor="middle">NY</text>
+                  <text x="139" y="35" text-anchor="middle">29</text>
+                  <rect x="110" y="-188.1313677997447" stroke="black" stroke-width=".5" fill="blue" width="58" height="188.1313677997447"></rect>
+                  <rect x="110" y="-300" stroke="black" stroke-width=".5" fill="red" width="58" height="108.08025551289457"></rect>
+                  <rect x="110" y="-191.91974448710545" stroke="black" stroke-width=".5" fill="yellow" width="58" height="2.0606066489658623"></rect>
+                  <rect x="110" y="-189.8591378381396" stroke="black" stroke-width=".5" fill="green" width="58" height="1.7277700383948897"></rect>
+               </g>
+               <g id="MD" class="wrapper">
+                  <text x="193" y="20" text-anchor="middle">MD</text>
+                  <text x="193" y="35" text-anchor="middle">10</text>
+                  <rect x="183" y="-185.01687984349007" stroke="black" stroke-width=".5" fill="blue" width="20" height="185.01687984349007"></rect>
+                  <rect x="183" y="-300" stroke="black" stroke-width=".5" fill="red" width="20" height="109.73004195973422"></rect>
+                  <rect x="183" y="-190.26995804026578" stroke="black" stroke-width=".5" fill="yellow" width="20" height="3.3615954949063758"></rect>
+                  <rect x="183" y="-186.9083625453594" stroke="black" stroke-width=".5" fill="green" width="20" height="1.8914827018693257"></rect>
+               </g>
+               <g id="MA" class="wrapper">
+                  <text x="229" y="20" text-anchor="middle">MA</text>
+                  <text x="229" y="35" text-anchor="middle">11</text>
+                  <rect x="218" y="-182.27240265282754" stroke="black" stroke-width=".5" fill="blue" width="22" height="182.27240265282754"></rect>
+                  <rect x="218" y="-300" stroke="black" stroke-width=".5" fill="red" width="22" height="112.91428052634573"></rect>
+                  <rect x="218" y="-187.08571947365428" stroke="black" stroke-width=".5" fill="yellow" width="22" height="2.9275600086185567"></rect>
+                  <rect x="218" y="-184.1581594650357" stroke="black" stroke-width=".5" fill="green" width="22" height="1.8857568122081725"></rect>
+               </g>
+               <g id="CA" class="wrapper">
+                  <text x="310" y="20" text-anchor="middle">CA</text>
+                  <text x="310" y="35" text-anchor="middle">55</text>
+                  <rect x="255" y="-179.2771366515304" stroke="black" stroke-width=".5" fill="blue" width="110" height="179.2771366515304"></rect>
+                  <rect x="255" y="-300" stroke="black" stroke-width=".5" fill="red" width="110" height="115.59799076994338"></rect>
+                  <rect x="255" y="-184.40200923005665" stroke="black" stroke-width=".5" fill="yellow" width="110" height="3.2159680091283245"></rect>
+                  <rect x="255" y="-181.18604122092827" stroke="black" stroke-width=".5" fill="green" width="110" height="1.9089045693978663"></rect>
+               </g>
+               <g id="CT" class="wrapper">
+                  <text x="389" y="20" text-anchor="middle">CT</text>
+                  <text x="389" y="35" text-anchor="middle">9</text>
+                  <rect x="380" y="-175.88122333361815" stroke="black" stroke-width=".5" fill="blue" width="18" height="175.88122333361815"></rect>
+                  <rect x="380" y="-300" stroke="black" stroke-width=".5" fill="red" width="18" height="121.68485596861166"></rect>
+                  <rect x="380" y="-178.31514403138834" stroke="black" stroke-width=".5" fill="yellow" width="18" height="2.433920697770191"></rect>
+                  <rect x="380" y="-175.88122333361815" stroke="black" stroke-width=".5" fill="green" width="18" height="0"></rect>
+               </g>
+               <g id="DE" class="wrapper">
+                  <text x="416" y="20" text-anchor="middle">DE</text>
+                  <text x="416" y="35" text-anchor="middle">3</text>
+                  <rect x="413" y="-175.83222595375585" stroke="black" stroke-width=".5" fill="blue" width="6" height="175.83222595375585"></rect>
+                  <rect x="413" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="119.94781222063834"></rect>
+                  <rect x="413" y="-180.05218777936167" stroke="black" stroke-width=".5" fill="yellow" width="6" height="2.8137911039164996"></rect>
+                  <rect x="413" y="-177.2383966754452" stroke="black" stroke-width=".5" fill="green" width="6" height="1.4061707216893375"></rect>
+               </g>
+               <g id="NJ" class="wrapper">
+                  <text x="448" y="20" text-anchor="middle">NJ</text>
+                  <text x="448" y="35" text-anchor="middle">14</text>
+                  <rect x="434" y="-174.4177606140971" stroke="black" stroke-width=".5" fill="blue" width="28" height="174.4177606140971"></rect>
+                  <rect x="434" y="-300" stroke="black" stroke-width=".5" fill="red" width="28" height="123.04533496852183"></rect>
+                  <rect x="434" y="-176.95466503147819" stroke="black" stroke-width=".5" fill="yellow" width="28" height="1.7331080600243853"></rect>
+                  <rect x="434" y="-175.2215569714538" stroke="black" stroke-width=".5" fill="green" width="28" height="0.8037963573566878"></rect>
+               </g>
+               <g id="IL" class="wrapper">
+                  <text x="497" y="20" text-anchor="middle">IL</text>
+                  <text x="497" y="35" text-anchor="middle">20</text>
+                  <rect x="477" y="-171.8783766291545" stroke="black" stroke-width=".5" fill="blue" width="40" height="171.8783766291545"></rect>
+                  <rect x="477" y="-300" stroke="black" stroke-width=".5" fill="red" width="40" height="123.16387487794783"></rect>
+                  <rect x="477" y="-176.83612512205218" stroke="black" stroke-width=".5" fill="yellow" width="40" height="3.229071503955659"></rect>
+                  <rect x="477" y="-173.6070536180965" stroke="black" stroke-width=".5" fill="green" width="40" height="1.7286769889419908"></rect>
+               </g>
+               <g id="WA" class="wrapper">
+                  <text x="544" y="20" text-anchor="middle">WA</text>
+                  <text x="544" y="35" text-anchor="middle">12</text>
+                  <rect x="532" y="-168.44534881740935" stroke="black" stroke-width=".5" fill="blue" width="24" height="168.44534881740935"></rect>
+                  <rect x="532" y="-300" stroke="black" stroke-width=".5" fill="red" width="24" height="125.66958979685664"></rect>
+                  <rect x="532" y="-174.33041020314337" stroke="black" stroke-width=".5" fill="yellow" width="24" height="3.9570555281216477"></rect>
+                  <rect x="532" y="-170.3733546750217" stroke="black" stroke-width=".5" fill="green" width="24" height="1.9280058576123418"></rect>
+               </g>
+               <g id="ME" class="wrapper">
+                  <text x="575" y="20" text-anchor="middle">ME</text>
+                  <text x="575" y="35" text-anchor="middle">4</text>
+                  <rect x="571" y="-167.89055882758484" stroke="black" stroke-width=".5" fill="blue" width="8" height="167.89055882758484"></rect>
+                  <rect x="571" y="-300" stroke="black" stroke-width=".5" fill="red" width="8" height="122.59243209171312"></rect>
+                  <rect x="571" y="-177.4075679082869" stroke="black" stroke-width=".5" fill="yellow" width="8" height="5.675509118690712"></rect>
+                  <rect x="571" y="-171.73205878959615" stroke="black" stroke-width=".5" fill="green" width="8" height="3.8414999620113175"></rect>
+               </g>
+               <g id="OR" class="wrapper">
+                  <text x="601" y="20" text-anchor="middle">OR</text>
+                  <text x="601" y="35" text-anchor="middle">7</text>
+                  <rect x="594" y="-164.66109864500294" stroke="black" stroke-width=".5" fill="blue" width="14" height="164.66109864500294"></rect>
+                  <rect x="594" y="-300" stroke="black" stroke-width=".5" fill="red" width="14" height="128.0309021692588"></rect>
+                  <rect x="594" y="-171.96909783074122" stroke="black" stroke-width=".5" fill="yellow" width="14" height="4.03006918885023"></rect>
+                  <rect x="594" y="-167.93902864189093" stroke="black" stroke-width=".5" fill="green" width="14" height="3.2779299968880222"></rect>
+               </g>
+               <g id="MI" class="wrapper">
+                  <text x="639" y="20" text-anchor="middle">MI</text>
+                  <text x="639" y="35" text-anchor="middle">16</text>
+                  <rect x="623" y="-163.6494276141341" stroke="black" stroke-width=".5" fill="blue" width="32" height="163.6494276141341"></rect>
+                  <rect x="623" y="-300" stroke="black" stroke-width=".5" fill="red" width="32" height="134.95502225874006"></rect>
+                  <rect x="623" y="-165.0449777412599" stroke="black" stroke-width=".5" fill="yellow" width="32" height="0"></rect>
+                  <rect x="623" y="-165.04497774125997" stroke="black" stroke-width=".5" fill="green" width="32" height="1.3955501271258313"></rect>
+               </g>
+               <g id="NM" class="wrapper">
+                  <text x="675" y="20" text-anchor="middle">NM</text>
+                  <text x="675" y="35" text-anchor="middle">5</text>
+                  <rect x="670" y="-159.13942067738492" stroke="black" stroke-width=".5" fill="blue" width="10" height="159.13942067738492"></rect>
+                  <rect x="670" y="-300" stroke="black" stroke-width=".5" fill="red" width="10" height="129.17417693105384"></rect>
+                  <rect x="670" y="-170.82582306894616" stroke="black" stroke-width=".5" fill="yellow" width="10" height="10.656903538465915"></rect>
+                  <rect x="670" y="-160.16891953048025" stroke="black" stroke-width=".5" fill="green" width="10" height="1.0294988530953495"></rect>
+               </g>
+               <g id="WI" class="wrapper">
+                  <text x="705" y="20" text-anchor="middle">WI</text>
+                  <text x="705" y="35" text-anchor="middle">10</text>
+                  <rect x="695" y="-158.71946596227397" stroke="black" stroke-width=".5" fill="blue" width="20" height="158.71946596227397"></rect>
+                  <rect x="695" y="-300" stroke="black" stroke-width=".5" fill="red" width="20" height="138.5391456222458"></rect>
+                  <rect x="695" y="-161.4608543777542" stroke="black" stroke-width=".5" fill="yellow" width="20" height="1.9941840396437256"></rect>
+                  <rect x="695" y="-159.46667033811048" stroke="black" stroke-width=".5" fill="green" width="20" height="0.7472043758365238"></rect>
+               </g>
+               <g id="NV" class="wrapper">
+                  <text x="736" y="20" text-anchor="middle">NV</text>
+                  <text x="736" y="35" text-anchor="middle">6</text>
+                  <rect x="730" y="-158.3025775046882" stroke="black" stroke-width=".5" fill="blue" width="12" height="158.3025775046882"></rect>
+                  <rect x="730" y="-300" stroke="black" stroke-width=".5" fill="red" width="12" height="138.43324821449946"></rect>
+                  <rect x="730" y="-161.56675178550054" stroke="black" stroke-width=".5" fill="yellow" width="12" height="3.2641742808123526"></rect>
+                  <rect x="730" y="-158.3025775046882" stroke="black" stroke-width=".5" fill="green" width="12" height="0"></rect>
+               </g>
+               <g id="MN" class="wrapper">
+                  <text x="767" y="20" text-anchor="middle">MN</text>
+                  <text x="767" y="35" text-anchor="middle">10</text>
+                  <rect x="757" y="-157.9582386976081" stroke="black" stroke-width=".5" fill="blue" width="20" height="157.9582386976081"></rect>
+                  <rect x="757" y="-300" stroke="black" stroke-width=".5" fill="red" width="20" height="134.87039120186606"></rect>
+                  <rect x="757" y="-165.12960879813394" stroke="black" stroke-width=".5" fill="yellow" width="20" height="3.5856850502629367"></rect>
+                  <rect x="757" y="-161.54392374787102" stroke="black" stroke-width=".5" fill="green" width="20" height="3.5856850502629367"></rect>
+               </g>
+               <g id="IA" class="wrapper">
+                  <text x="798" y="20" text-anchor="middle">IA</text>
+                  <text x="798" y="35" text-anchor="middle">6</text>
+                  <rect x="792" y="-156.9129379385632" stroke="black" stroke-width=".5" fill="blue" width="12" height="156.9129379385632"></rect>
+                  <rect x="792" y="-300" stroke="black" stroke-width=".5" fill="red" width="12" height="139.90355693849978"></rect>
+                  <rect x="792" y="-160.09644306150025" stroke="black" stroke-width=".5" fill="yellow" width="12" height="2.464890920168285"></rect>
+                  <rect x="792" y="-157.63155214133195" stroke="black" stroke-width=".5" fill="green" width="12" height="0.71861420276875"></rect>
+               </g>
+               <g id="NH" class="wrapper">
+                  <text x="823" y="20" text-anchor="middle">NH</text>
+                  <text x="823" y="35" text-anchor="middle">4</text>
+                  <rect x="819" y="-156.88360450563204" stroke="black" stroke-width=".5" fill="blue" width="8" height="156.88360450563204"></rect>
+                  <rect x="819" y="-300" stroke="black" stroke-width=".5" fill="red" width="8" height="139.5749789277413"></rect>
+                  <rect x="819" y="-160.4250210722587" stroke="black" stroke-width=".5" fill="yellow" width="8" height="3.541416566626651"></rect>
+                  <rect x="819" y="-156.88360450563204" stroke="black" stroke-width=".5" fill="green" width="8" height="0"></rect>
+               </g>
+               <g id="PA" class="wrapper">
+                  <text x="862" y="20" text-anchor="middle">PA</text>
+                  <text x="862" y="35" text-anchor="middle">20</text>
+                  <rect x="842" y="-155.7065350438061" stroke="black" stroke-width=".5" fill="blue" width="40" height="155.7065350438061"></rect>
+                  <rect x="842" y="-300" stroke="black" stroke-width=".5" fill="red" width="40" height="140.57118923932023"></rect>
+                  <rect x="842" y="-159.42881076067974" stroke="black" stroke-width=".5" fill="yellow" width="40" height="2.612718986091469"></rect>
+                  <rect x="842" y="-156.81609177458827" stroke="black" stroke-width=".5" fill="green" width="40" height="1.1095567307821943"></rect>
+               </g>
+               <g id="CO" class="wrapper">
+                  <text x="904" y="20" text-anchor="middle">CO</text>
+                  <text x="904" y="35" text-anchor="middle">7</text>
+                  <rect x="897" y="-154.92079146436924" stroke="black" stroke-width=".5" fill="blue" width="14" height="154.92079146436924"></rect>
+                  <rect x="897" y="-300" stroke="black" stroke-width=".5" fill="red" width="14" height="140.12728600867095"></rect>
+                  <rect x="897" y="-159.87271399132905" stroke="black" stroke-width=".5" fill="yellow" width="14" height="4.082704039194089"></rect>
+                  <rect x="897" y="-155.79000995213497" stroke="black" stroke-width=".5" fill="green" width="14" height="0.8692184877657375"></rect>
+               </g>
+               <g id="VA" class="wrapper">
+                  <text x="939" y="20" text-anchor="middle">VA</text>
+                  <text x="939" y="35" text-anchor="middle">13</text>
+                  <rect x="926" y="-154.28133663175225" stroke="black" stroke-width=".5" fill="blue" width="26" height="154.28133663175225"></rect>
+                  <rect x="926" y="-300" stroke="black" stroke-width=".5" fill="red" width="26" height="142.6015635841196"></rect>
+                  <rect x="926" y="-157.3984364158804" stroke="black" stroke-width=".5" fill="yellow" width="26" height="2.442095949768321"></rect>
+                  <rect x="926" y="-154.95634046611207" stroke="black" stroke-width=".5" fill="green" width="26" height="0.6750038343598288"></rect>
+               </g>
+               <g id="OH" class="wrapper">
+                  <text x="985" y="20" text-anchor="middle">OH</text>
+                  <text x="985" y="35" text-anchor="middle">18</text>
+                  <rect x="967" y="-151.07437788169858" stroke="black" stroke-width=".5" fill="blue" width="36" height="151.07437788169858"></rect>
+                  <rect x="967" y="-300" stroke="black" stroke-width=".5" fill="red" width="36" height="145.27675881629867"></rect>
+                  <rect x="967" y="-154.7232411837013" stroke="black" stroke-width=".5" fill="yellow" width="36" height="2.648530231043707"></rect>
+                  <rect x="967" y="-152.0747109526576" stroke="black" stroke-width=".5" fill="green" width="36" height="1.00033307095905"></rect>
+               </g>
+               <g id="FL" class="wrapper">
+                  <text x="1047" y="20" text-anchor="middle">FL</text>
+                  <text x="1047" y="35" text-anchor="middle">29</text>
+                  <rect x="1018" y="-150.34744552841008" stroke="black" stroke-width=".5" fill="blue" width="58" height="150.34744552841008"></rect>
+                  <rect x="1018" y="-300" stroke="black" stroke-width=".5" fill="red" width="58" height="147.74931620235085"></rect>
+                  <rect x="1018" y="-152.25068379764912" stroke="black" stroke-width=".5" fill="yellow" width="58" height="1.5861265547780636"></rect>
+                  <rect x="1018" y="-150.6645572428711" stroke="black" stroke-width=".5" fill="green" width="58" height="0.3171117144610113"></rect>
+               </g>
+               <g id="NC" class="wrapper">
+                  <text x="1106" y="20" text-anchor="middle">NC</text>
+                  <text x="1106" y="35" text-anchor="middle">15</text>
+                  <rect x="1091" y="-145.2568870818857" stroke="black" stroke-width=".5" fill="blue" width="30" height="145.2568870818857"></rect>
+                  <rect x="1091" y="-300" stroke="black" stroke-width=".5" fill="red" width="30" height="151.75594165776292"></rect>
+                  <rect x="1091" y="-148.24405834223708" stroke="black" stroke-width=".5" fill="yellow" width="30" height="2.9871712603513774"></rect>
+                  <rect x="1091" y="-145.2568870818857" stroke="black" stroke-width=".5" fill="green" width="30" height="0"></rect>
+               </g>
+               <g id="GA" class="wrapper">
+                  <text x="1152" y="20" text-anchor="middle">GA</text>
+                  <text x="1152" y="35" text-anchor="middle">16</text>
+                  <rect x="1136" y="-136.52387900064625" stroke="black" stroke-width=".5" fill="blue" width="32" height="136.52387900064625"></rect>
+                  <rect x="1136" y="-300" stroke="black" stroke-width=".5" fill="red" width="32" height="159.98772653257356"></rect>
+                  <rect x="1136" y="-140.01227346742644" stroke="black" stroke-width=".5" fill="yellow" width="32" height="3.4883944667801825"></rect>
+                  <rect x="1136" y="-136.52387900064625" stroke="black" stroke-width=".5" fill="green" width="32" height="0"></rect>
+               </g>
+               <g id="MO" class="wrapper">
+                  <text x="1193" y="20" text-anchor="middle">MO</text>
+                  <text x="1193" y="35" text-anchor="middle">10</text>
+                  <rect x="1183" y="-133.56773733267522" stroke="black" stroke-width=".5" fill="blue" width="20" height="133.56773733267522"></rect>
+                  <rect x="1183" y="-300" stroke="black" stroke-width=".5" fill="red" width="20" height="161.70204345909508"></rect>
+                  <rect x="1183" y="-138.2979565409049" stroke="black" stroke-width=".5" fill="yellow" width="20" height="4.730219208229681"></rect>
+                  <rect x="1183" y="-133.56773733267522" stroke="black" stroke-width=".5" fill="green" width="20" height="0"></rect>
+               </g>
+               <g id="SC" class="wrapper">
+                  <text x="1227" y="20" text-anchor="middle">SC</text>
+                  <text x="1227" y="35" text-anchor="middle">9</text>
+                  <rect x="1218" y="-132.5665017485946" stroke="black" stroke-width=".5" fill="blue" width="18" height="132.5665017485946"></rect>
+                  <rect x="1218" y="-300" stroke="black" stroke-width=".5" fill="red" width="18" height="164.1001887501634"></rect>
+                  <rect x="1218" y="-135.89981124983657" stroke="black" stroke-width=".5" fill="yellow" width="18" height="2.4997140149039088"></rect>
+                  <rect x="1218" y="-133.40009723493267" stroke="black" stroke-width=".5" fill="green" width="18" height="0.8335954863380833"></rect>
+               </g>
+               <g id="AZ" class="wrapper">
+                  <text x="1262" y="20" text-anchor="middle">AZ</text>
+                  <text x="1262" y="35" text-anchor="middle">11</text>
+                  <rect x="1251" y="-132.37782879632667" stroke="black" stroke-width=".5" fill="blue" width="22" height="132.37782879632667"></rect>
+                  <rect x="1251" y="-300" stroke="black" stroke-width=".5" fill="red" width="22" height="162.52555773431123"></rect>
+                  <rect x="1251" y="-137.47444226568877" stroke="black" stroke-width=".5" fill="yellow" width="22" height="4.088120974438777"></rect>
+                  <rect x="1251" y="-133.38632129125" stroke="black" stroke-width=".5" fill="green" width="22" height="1.0084924949233443"></rect>
+               </g>
+               <g id="IN" class="wrapper">
+                  <text x="1299" y="20" text-anchor="middle">IN</text>
+                  <text x="1299" y="35" text-anchor="middle">11</text>
+                  <rect x="1288" y="-132.04406462965193" stroke="black" stroke-width=".5" fill="blue" width="22" height="132.04406462965193"></rect>
+                  <rect x="1288" y="-300" stroke="black" stroke-width=".5" fill="red" width="22" height="162.19119509832578"></rect>
+                  <rect x="1288" y="-137.8088049016742" stroke="black" stroke-width=".5" fill="yellow" width="22" height="5.7363114786984655"></rect>
+                  <rect x="1288" y="-132.07249342297573" stroke="black" stroke-width=".5" fill="green" width="22" height="0.028428793323818858"></rect>
+               </g>
+               <g id="MS" class="wrapper">
+                  <text x="1331" y="20" text-anchor="middle">MS</text>
+                  <text x="1331" y="35" text-anchor="middle">6</text>
+                  <rect x="1325" y="-130.91902215936503" stroke="black" stroke-width=".5" fill="blue" width="12" height="130.91902215936503"></rect>
+                  <rect x="1325" y="-300" stroke="black" stroke-width=".5" fill="red" width="12" height="167.11270677337706"></rect>
+                  <rect x="1325" y="-132.88729322662297" stroke="black" stroke-width=".5" fill="yellow" width="12" height="1.5880988414742951"></rect>
+                  <rect x="1325" y="-131.29919438514867" stroke="black" stroke-width=".5" fill="green" width="12" height="0.3801722257836405"></rect>
+               </g>
+               <g id="MT" class="wrapper">
+                  <text x="1355" y="20" text-anchor="middle">MT</text>
+                  <text x="1355" y="35" text-anchor="middle">3</text>
+                  <rect x="1352" y="-125.09271062097007" stroke="black" stroke-width=".5" fill="blue" width="6" height="125.09271062097007"></rect>
+                  <rect x="1352" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="166.08640319978184"></rect>
+                  <rect x="1352" y="-133.91359680021816" stroke="black" stroke-width=".5" fill="yellow" width="6" height="8.82088617924811"></rect>
+                  <rect x="1352" y="-125.09271062097007" stroke="black" stroke-width=".5" fill="green" width="6" height="0"></rect>
+               </g>
+               <g id="TX" class="wrapper">
+                  <text x="1411" y="20" text-anchor="middle">TX</text>
+                  <text x="1411" y="35" text-anchor="middle">38</text>
+                  <rect x="1373" y="-124.11867535696794" stroke="black" stroke-width=".5" fill="blue" width="76" height="124.11867535696794"></rect>
+                  <rect x="1373" y="-300" stroke="black" stroke-width=".5" fill="red" width="76" height="171.6406208793279"></rect>
+                  <rect x="1373" y="-128.3593791206721" stroke="black" stroke-width=".5" fill="yellow" width="76" height="3.319556945333986"></rect>
+                  <rect x="1373" y="-125.03982217533814" stroke="black" stroke-width=".5" fill="green" width="76" height="0.9211468183701917"></rect>
+               </g>
+               <g id="AK" class="wrapper">
+                  <text x="1467" y="20" text-anchor="middle">AK</text>
+                  <text x="1467" y="35" text-anchor="middle">3</text>
+                  <rect x="1464" y="-123.81214063188179" stroke="black" stroke-width=".5" fill="blue" width="6" height="123.81214063188179"></rect>
+                  <rect x="1464" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="165.88775794701053"></rect>
+                  <rect x="1464" y="-134.11224205298947" stroke="black" stroke-width=".5" fill="yellow" width="6" height="7.432025634083957"></rect>
+                  <rect x="1464" y="-126.68021641890554" stroke="black" stroke-width=".5" fill="green" width="6" height="2.868075787023755"></rect>
+               </g>
+               <g id="LA" class="wrapper">
+                  <text x="1493" y="20" text-anchor="middle">LA</text>
+                  <text x="1493" y="35" text-anchor="middle">8</text>
+                  <rect x="1485" y="-122.19363535960551" stroke="black" stroke-width=".5" fill="blue" width="16" height="122.19363535960551"></rect>
+                  <rect x="1485" y="-300" stroke="black" stroke-width=".5" fill="red" width="16" height="174.01056511378087"></rect>
+                  <rect x="1485" y="-125.98943488621913" stroke="black" stroke-width=".5" fill="yellow" width="16" height="2.742006445383879"></rect>
+                  <rect x="1485" y="-123.24742844083528" stroke="black" stroke-width=".5" fill="green" width="16" height="1.0537930812297576"></rect>
+               </g>
+               <g id="SD" class="wrapper">
+                  <text x="1519" y="20" text-anchor="middle">SD</text>
+                  <text x="1519" y="35" text-anchor="middle">3</text>
+                  <rect x="1516" y="-120.34876965045568" stroke="black" stroke-width=".5" fill="blue" width="6" height="120.34876965045568"></rect>
+                  <rect x="1516" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="174.84133000592072"></rect>
+                  <rect x="1516" y="-125.15866999407928" stroke="black" stroke-width=".5" fill="yellow" width="6" height="4.809900343623597"></rect>
+                  <rect x="1516" y="-120.34876965045568" stroke="black" stroke-width=".5" fill="green" width="6" height="0"></rect>
+               </g>
+               <g id="TN" class="wrapper">
+                  <text x="1548" y="20" text-anchor="middle">TN</text>
+                  <text x="1548" y="35" text-anchor="middle">11</text>
+                  <rect x="1537" y="-117.71934375467966" stroke="black" stroke-width=".5" fill="blue" width="22" height="117.71934375467966"></rect>
+                  <rect x="1537" y="-300" stroke="black" stroke-width=".5" fill="red" width="22" height="179.20380052093094"></rect>
+                  <rect x="1537" y="-120.79619947906907" stroke="black" stroke-width=".5" fill="yellow" width="22" height="2.2792569492235546"></rect>
+                  <rect x="1537" y="-118.5169425298455" stroke="black" stroke-width=".5" fill="green" width="22" height="0.7975987751658493"></rect>
+               </g>
+               <g id="ND" class="wrapper">
+                  <text x="1577" y="20" text-anchor="middle">ND</text>
+                  <text x="1577" y="35" text-anchor="middle">3</text>
+                  <rect x="1574" y="-117.18124204687925" stroke="black" stroke-width=".5" fill="blue" width="6" height="117.18124204687925"></rect>
+                  <rect x="1574" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="176.54568022436007"></rect>
+                  <rect x="1574" y="-123.45431977563992" stroke="black" stroke-width=".5" fill="yellow" width="6" height="4.9955759544526535"></rect>
+                  <rect x="1574" y="-118.45874382118727" stroke="black" stroke-width=".5" fill="green" width="6" height="1.27750177430802"></rect>
+               </g>
+               <g id="AL" class="wrapper">
+                  <text x="1604" y="20" text-anchor="middle">AL</text>
+                  <text x="1604" y="35" text-anchor="middle">9</text>
+                  <rect x="1595" y="-115.47830034660078" stroke="black" stroke-width=".5" fill="blue" width="18" height="115.47830034660078"></rect>
+                  <rect x="1595" y="-300" stroke="black" stroke-width=".5" fill="red" width="18" height="182.24231206874975"></rect>
+                  <rect x="1595" y="-117.75768793125023" stroke="black" stroke-width=".5" fill="yellow" width="18" height="1.7872784999839941"></rect>
+                  <rect x="1595" y="-115.97040943126625" stroke="black" stroke-width=".5" fill="green" width="18" height="0.4921090846654619"></rect>
+               </g>
+               <g id="KS" class="wrapper">
+                  <text x="1634" y="20" text-anchor="middle">KS</text>
+                  <text x="1634" y="35" text-anchor="middle">6</text>
+                  <rect x="1628" y="-113.95881250626937" stroke="black" stroke-width=".5" fill="blue" width="12" height="113.95881250626937"></rect>
+                  <rect x="1628" y="-300" stroke="black" stroke-width=".5" fill="red" width="12" height="180.74960919017815"></rect>
+                  <rect x="1628" y="-119.25039080982187" stroke="black" stroke-width=".5" fill="yellow" width="12" height="5.291578303552486"></rect>
+                  <rect x="1628" y="-113.95881250626937" stroke="black" stroke-width=".5" fill="green" width="12" height="0"></rect>
+               </g>
+               <g id="NE" class="wrapper">
+                  <text x="1660" y="20" text-anchor="middle">NE</text>
+                  <text x="1660" y="35" text-anchor="middle">5</text>
+                  <rect x="1655" y="-113.95255811785907" stroke="black" stroke-width=".5" fill="blue" width="10" height="113.95255811785907"></rect>
+                  <rect x="1655" y="-300" stroke="black" stroke-width=".5" fill="red" width="10" height="181.85472282849307"></rect>
+                  <rect x="1655" y="-118.14527717150692" stroke="black" stroke-width=".5" fill="yellow" width="10" height="4.192719053647852"></rect>
+                  <rect x="1655" y="-113.95255811785907" stroke="black" stroke-width=".5" fill="green" width="10" height="0"></rect>
+               </g>
+               <g id="KY" class="wrapper">
+                  <text x="1688" y="20" text-anchor="middle">KY</text>
+                  <text x="1688" y="35" text-anchor="middle">8</text>
+                  <rect x="1680" y="-113.86558518614531" stroke="black" stroke-width=".5" fill="blue" width="16" height="113.86558518614531"></rect>
+                  <rect x="1680" y="-300" stroke="black" stroke-width=".5" fill="red" width="16" height="182.21255807612974"></rect>
+                  <rect x="1680" y="-117.78744192387026" stroke="black" stroke-width=".5" fill="yellow" width="16" height="2.8597256147298276"></rect>
+                  <rect x="1680" y="-114.92771630914044" stroke="black" stroke-width=".5" fill="green" width="16" height="1.0621311229951305"></rect>
+               </g>
+               <g id="AR" class="wrapper">
+                  <text x="1717" y="20" text-anchor="middle">AR</text>
+                  <text x="1717" y="35" text-anchor="middle">6</text>
+                  <rect x="1711" y="-110.77560463701055" stroke="black" stroke-width=".5" fill="blue" width="12" height="110.77560463701055"></rect>
+                  <rect x="1711" y="-300" stroke="black" stroke-width=".5" fill="red" width="12" height="182.0357290216345"></rect>
+                  <rect x="1711" y="-117.9642709783655" stroke="black" stroke-width=".5" fill="yellow" width="12" height="4.572293617045328"></rect>
+                  <rect x="1711" y="-113.39197736132019" stroke="black" stroke-width=".5" fill="green" width="12" height="2.6163727243096386"></rect>
+               </g>
+               <g id="WV" class="wrapper">
+                  <text x="1743" y="20" text-anchor="middle">WV</text>
+                  <text x="1743" y="35" text-anchor="middle">5</text>
+                  <rect x="1738" y="-107.12885102967732" stroke="black" stroke-width=".5" fill="blue" width="10" height="107.12885102967732"></rect>
+                  <rect x="1738" y="-300" stroke="black" stroke-width=".5" fill="red" width="10" height="188.06249201977272"></rect>
+                  <rect x="1738" y="-111.93750798022728" stroke="black" stroke-width=".5" fill="yellow" width="10" height="2.8291045728982365"></rect>
+                  <rect x="1738" y="-109.10840340732904" stroke="black" stroke-width=".5" fill="green" width="10" height="1.9795523776517154"></rect>
+               </g>
+               <g id="OK" class="wrapper">
+                  <text x="1770" y="20" text-anchor="middle">OK</text>
+                  <text x="1770" y="35" text-anchor="middle">7</text>
+                  <rect x="1763" y="-99.68304077095031" stroke="black" stroke-width=".5" fill="blue" width="14" height="99.68304077095031"></rect>
+                  <rect x="1763" y="-300" stroke="black" stroke-width=".5" fill="red" width="14" height="200.31695922904967"></rect>
+                  <rect x="1763" y="-99.68304077095031" stroke="black" stroke-width=".5" fill="yellow" width="14" height="0"></rect>
+                  <rect x="1763" y="-99.68304077095031" stroke="black" stroke-width=".5" fill="green" width="14" height="0"></rect>
+               </g>
+               <g id="ID" class="wrapper">
+                  <text x="1796" y="20" text-anchor="middle">ID</text>
+                  <text x="1796" y="35" text-anchor="middle">4</text>
+                  <rect x="1792" y="-98.63249369342633" stroke="black" stroke-width=".5" fill="blue" width="8" height="98.63249369342633"></rect>
+                  <rect x="1792" y="-300" stroke="black" stroke-width=".5" fill="red" width="8" height="194.94268437453627"></rect>
+                  <rect x="1792" y="-105.05731562546373" stroke="black" stroke-width=".5" fill="yellow" width="8" height="4.38399614186081"></rect>
+                  <rect x="1792" y="-100.67331948360291" stroke="black" stroke-width=".5" fill="green" width="8" height="2.040825790176584"></rect>
+               </g>
+               <g id="WY" class="wrapper">
+                  <text x="1818" y="20" text-anchor="middle">WY</text>
+                  <text x="1818" y="35" text-anchor="middle">3</text>
+                  <rect x="1815" y="-84.64169659654524" stroke="black" stroke-width=".5" fill="blue" width="6" height="84.64169659654524"></rect>
+                  <rect x="1815" y="-300" stroke="black" stroke-width=".5" fill="red" width="6" height="208.85191429060077"></rect>
+                  <rect x="1815" y="-91.1480857093992" stroke="black" stroke-width=".5" fill="yellow" width="6" height="6.5063891128539675"></rect>
+                  <rect x="1815" y="-84.64169659654524" stroke="black" stroke-width=".5" fill="green" width="6" height="0"></rect>
+               </g>
+               <g id="UT" class="wrapper">
+                  <text x="1842" y="20" text-anchor="middle">UT</text>
+                  <text x="1842" y="35" text-anchor="middle">6</text>
+                  <rect x="1836" y="-75.17962472929332" stroke="black" stroke-width=".5" fill="blue" width="12" height="75.17962472929332"></rect>
+                  <rect x="1836" y="-300" stroke="black" stroke-width=".5" fill="red" width="12" height="220.08640771291493"></rect>
+                  <rect x="1836" y="-79.91359228708504" stroke="black" stroke-width=".5" fill="yellow" width="12" height="3.6272236716943755"></rect>
+                  <rect x="1836" y="-76.28636861539066" stroke="black" stroke-width=".5" fill="green" width="12" height="1.1067438860973353"></rect>
+               </g>
+               <line x1="20" x2="1861" y1="-150" y2="-150" stroke="black" opacity="0.5" stroke-dasharray="8 4" stroke-width="1"></line>
+            </g>
+         </svg>
+      </div>
+      <h2>Votes for <span id="current-state">PA</span></h2>
+      <table id="results" border="1">
+         <tr>
+            <th>Party</th>
+            <th>Votes</th>
+            <th>Percent</th>
+         </tr>
+         <tbody id="tbody-AL" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,252,453</td>
+               <td>60.75%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>12,283</td>
+               <td>0.60%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>3,382</td>
+               <td>0.16%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>793,620</td>
+               <td>38.49%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,061,738</td>
+               <td>Electoral: 9</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-AK" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>136,848</td>
+               <td>55.30%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>6,131</td>
+               <td>2.48%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>2,366</td>
+               <td>0.96%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>102,138</td>
+               <td>41.27%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>247,483</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-AZ" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,164,520</td>
+               <td>54.18%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>29,292</td>
+               <td>1.36%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>7,226</td>
+               <td>0.34%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>948,507</td>
+               <td>44.13%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,149,545</td>
+               <td>Electoral: 11</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-AR" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>644,131</td>
+               <td>60.68%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>16,179</td>
+               <td>1.52%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>9,258</td>
+               <td>0.87%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>391,978</td>
+               <td>36.93%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,061,546</td>
+               <td>Electoral: 6</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-CA" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>4,136,120</td>
+               <td>38.53%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>115,068</td>
+               <td>1.07%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>68,301</td>
+               <td>0.64%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>6,414,573</td>
+               <td>59.76%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>10,734,062</td>
+               <td>Electoral: 55</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-CO" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,143,306</td>
+               <td>46.71%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>33,311</td>
+               <td>1.36%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>7,092</td>
+               <td>0.29%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,264,007</td>
+               <td>51.64%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,447,716</td>
+               <td>Electoral: 7</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-CT" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>631,342</td>
+               <td>40.56%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>12,628</td>
+               <td>0.81%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>912,531</td>
+               <td>58.63%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,556,501</td>
+               <td>Electoral: 9</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-DE" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>165,484</td>
+               <td>39.98%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>3,882</td>
+               <td>0.94%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>1,940</td>
+               <td>0.47%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>242,584</td>
+               <td>58.61%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>413,890</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-DC" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>17,337</td>
+               <td>7.12%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>1,634</td>
+               <td>0.67%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>2,045</td>
+               <td>0.84%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>222,332</td>
+               <td>91.36%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>243,348</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-FL" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>4,162,081</td>
+               <td>49.25%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>44,681</td>
+               <td>0.53%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>8,933</td>
+               <td>0.11%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>4,235,270</td>
+               <td>50.12%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>8,450,965</td>
+               <td>Electoral: 29</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-GA" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>2,078,688</td>
+               <td>53.33%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>45,324</td>
+               <td>1.16%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>1,773,827</td>
+               <td>45.51%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>3,897,839</td>
+               <td>Electoral: 16</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-HI" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>120,975</td>
+               <td>27.84%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>3,838</td>
+               <td>0.88%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>3,181</td>
+               <td>0.73%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>306,545</td>
+               <td>70.54%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>434,539</td>
+               <td>Electoral: 4</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-ID" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>420,390</td>
+               <td>64.98%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>9,454</td>
+               <td>1.46%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>4,401</td>
+               <td>0.68%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>212,699</td>
+               <td>32.88%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>646,944</td>
+               <td>Electoral: 4</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-IL" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>2,090,116</td>
+               <td>41.05%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>54,798</td>
+               <td>1.08%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>29,336</td>
+               <td>0.58%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>2,916,811</td>
+               <td>57.29%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>5,091,061</td>
+               <td>Electoral: 20</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-IN" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,414,883</td>
+               <td>54.06%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>50,041</td>
+               <td>1.91%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>248</td>
+               <td>0.01%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>1,151,893</td>
+               <td>44.01%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,617,065</td>
+               <td>Electoral: 11</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-IA" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>727,928</td>
+               <td>46.63%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>12,825</td>
+               <td>0.82%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>3,739</td>
+               <td>0.24%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>816,429</td>
+               <td>52.30%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,560,921</td>
+               <td>Electoral: 6</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-KS" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>678,719</td>
+               <td>60.25%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>19,870</td>
+               <td>1.76%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>427,918</td>
+               <td>37.99%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,126,507</td>
+               <td>Electoral: 6</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-KY" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,087,136</td>
+               <td>60.74%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>17,062</td>
+               <td>0.95%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>6,337</td>
+               <td>0.35%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>679,357</td>
+               <td>37.96%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,789,892</td>
+               <td>Electoral: 8</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-LA" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,152,262</td>
+               <td>58.00%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>18,157</td>
+               <td>0.91%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>6,978</td>
+               <td>0.35%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>809,141</td>
+               <td>40.73%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,986,538</td>
+               <td>Electoral: 8</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-ME" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>290,437</td>
+               <td>40.86%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>13,446</td>
+               <td>1.89%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>9,101</td>
+               <td>1.28%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>397,754</td>
+               <td>55.96%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>710,738</td>
+               <td>Electoral: 4</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MD" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>949,204</td>
+               <td>36.58%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>29,079</td>
+               <td>1.12%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>16,362</td>
+               <td>0.63%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,600,462</td>
+               <td>61.67%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,595,107</td>
+               <td>Electoral: 10</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MA" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,177,370</td>
+               <td>37.64%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>30,526</td>
+               <td>0.98%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>19,663</td>
+               <td>0.63%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,900,575</td>
+               <td>60.76%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>3,128,134</td>
+               <td>Electoral: 11</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MI" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>2,111,141</td>
+               <td>44.99%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>21,831</td>
+               <td>0.47%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>2,560,016</td>
+               <td>54.55%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>4,692,988</td>
+               <td>Electoral: 16</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MN" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,320,048</td>
+               <td>44.96%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>35,095</td>
+               <td>1.20%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>35,095</td>
+               <td>1.20%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,546,021</td>
+               <td>52.65%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,936,259</td>
+               <td>Electoral: 10</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MS" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>674,302</td>
+               <td>55.70%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>6,408</td>
+               <td>0.53%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>1,534</td>
+               <td>0.13%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>528,260</td>
+               <td>43.64%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,210,504</td>
+               <td>Electoral: 6</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MO" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,470,976</td>
+               <td>53.90%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>43,030</td>
+               <td>1.58%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>1,215,043</td>
+               <td>44.52%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,729,049</td>
+               <td>Electoral: 10</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-MT" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>267,971</td>
+               <td>55.36%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>14,232</td>
+               <td>2.94%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>201,830</td>
+               <td>41.70%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>484,033</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NE" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>468,265</td>
+               <td>60.62%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>10,796</td>
+               <td>1.40%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>293,421</td>
+               <td>37.98%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>772,482</td>
+               <td>Electoral: 5</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NV" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>462,607</td>
+               <td>46.14%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>10,908</td>
+               <td>1.09%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>529,005</td>
+               <td>52.77%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,002,520</td>
+               <td>Electoral: 6</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NH" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>327,870</td>
+               <td>46.52%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>8,319</td>
+               <td>1.18%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>368,529</td>
+               <td>52.29%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>704,718</td>
+               <td>Electoral: 4</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NJ" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,383,233</td>
+               <td>41.02%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>19,483</td>
+               <td>0.58%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>9,036</td>
+               <td>0.27%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,960,744</td>
+               <td>58.14%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>3,372,496</td>
+               <td>Electoral: 14</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NM" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>333,005</td>
+               <td>43.06%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>27,473</td>
+               <td>3.55%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>2,654</td>
+               <td>0.34%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>410,254</td>
+               <td>53.05%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>773,386</td>
+               <td>Electoral: 5</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NY" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>2,226,637</td>
+               <td>36.03%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>42,452</td>
+               <td>0.69%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>35,595</td>
+               <td>0.58%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>3,875,826</td>
+               <td>62.71%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>6,180,510</td>
+               <td>Electoral: 29</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-NC" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>2,275,853</td>
+               <td>50.59%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>44,798</td>
+               <td>1.00%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>2,178,388</td>
+               <td>48.42%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>4,499,039</td>
+               <td>Electoral: 15</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-ND" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>188,223</td>
+               <td>58.85%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>5,326</td>
+               <td>1.67%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>1,362</td>
+               <td>0.43%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>124,932</td>
+               <td>39.06%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>319,843</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-OH" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>2,593,779</td>
+               <td>48.43%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>47,287</td>
+               <td>0.88%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>17,860</td>
+               <td>0.33%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>2,697,290</td>
+               <td>50.36%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>5,356,216</td>
+               <td>Electoral: 18</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-OK" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>891,325</td>
+               <td>66.77%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>443,547</td>
+               <td>33.23%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,334,872</td>
+               <td>Electoral: 7</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-OR" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>729,573</td>
+               <td>42.68%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>22,965</td>
+               <td>1.34%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>18,679</td>
+               <td>1.09%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>938,307</td>
+               <td>54.89%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,709,524</td>
+               <td>Electoral: 7</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-PA">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>2,641,387</td>
+               <td>46.86%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>49,094</td>
+               <td>0.87%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>20,849</td>
+               <td>0.37%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>2,925,786</td>
+               <td>51.90%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>5,637,116</td>
+               <td>Electoral: 20</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-RI" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>157,088</td>
+               <td>35.45%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>4,380</td>
+               <td>0.99%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>2,416</td>
+               <td>0.55%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>279,244</td>
+               <td>63.02%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>443,128</td>
+               <td>Electoral: 4</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-SC" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,071,106</td>
+               <td>54.70%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>16,316</td>
+               <td>0.83%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>5,441</td>
+               <td>0.28%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>865,281</td>
+               <td>44.19%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>1,958,144</td>
+               <td>Electoral: 9</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-SD" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>210,650</td>
+               <td>58.28%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>5,795</td>
+               <td>1.60%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>144,997</td>
+               <td>40.12%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>361,442</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-TN" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>1,459,965</td>
+               <td>59.73%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>18,569</td>
+               <td>0.76%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>6,498</td>
+               <td>0.27%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>959,054</td>
+               <td>39.24%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,444,086</td>
+               <td>Electoral: 11</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-TX" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>4,555,857</td>
+               <td>57.21%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>88,111</td>
+               <td>1.11%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>24,450</td>
+               <td>0.31%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>3,294,482</td>
+               <td>41.37%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>7,962,900</td>
+               <td>Electoral: 38</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-UT" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>671,747</td>
+               <td>73.36%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>11,071</td>
+               <td>1.21%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>3,378</td>
+               <td>0.37%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>229,463</td>
+               <td>25.06%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>915,659</td>
+               <td>Electoral: 6</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-VT" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>92,698</td>
+               <td>31.38%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>3,487</td>
+               <td>1.18%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>199,239</td>
+               <td>67.44%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>295,424</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-VA" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,822,332</td>
+               <td>47.53%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>31,208</td>
+               <td>0.81%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>8,626</td>
+               <td>0.23%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,971,590</td>
+               <td>51.43%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>3,833,756</td>
+               <td>Electoral: 13</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-WA" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,230,033</td>
+               <td>41.89%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>38,731</td>
+               <td>1.32%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>18,871</td>
+               <td>0.64%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,648,715</td>
+               <td>56.15%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>2,936,350</td>
+               <td>Electoral: 12</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-WV" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>412,406</td>
+               <td>62.69%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>6,204</td>
+               <td>0.94%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>4,341</td>
+               <td>0.66%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>234,925</td>
+               <td>35.71%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>657,876</td>
+               <td>Electoral: 5</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-WI" style="display: none;">
+            <tr class="Republican">
+               <td>Republican</td>
+               <td>1,408,745</td>
+               <td>46.18%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>20,278</td>
+               <td>0.66%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>7,598</td>
+               <td>0.25%</td>
+            </tr>
+            <tr class="Democrat" style="font-weight:bold;">
+               <td>Democrat</td>
+               <td>1,613,950</td>
+               <td>52.91%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>3,050,571</td>
+               <td>Electoral: 10</td>
+            </tr>
+         </tbody>
+         <tbody id="tbody-WY" style="display: none;">
+            <tr class="Republican" style="font-weight:bold;">
+               <td>Republican</td>
+               <td>170,962</td>
+               <td>69.62%</td>
+            </tr>
+            <tr class="Libertarian">
+               <td>Libertarian</td>
+               <td>5,326</td>
+               <td>2.17%</td>
+            </tr>
+            <tr class="Green">
+               <td>Green</td>
+               <td>0</td>
+               <td>0.00%</td>
+            </tr>
+            <tr class="Democrat">
+               <td>Democrat</td>
+               <td>69,286</td>
+               <td>28.21%</td>
+            </tr>
+            <tr style="font-weight: bold;">
+               <td>Total</td>
+               <td>245,574</td>
+               <td>Electoral: 3</td>
+            </tr>
+         </tbody>
+         <tr style="font-weight: bold; visibility:hidden">
+            <td>Republican</td>
+            <td>10,000,000</td>
+            <td>Electoral: 55</td>
+         </tr>
+      </table>
+   </body>
+</html>
