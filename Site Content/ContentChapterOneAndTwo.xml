@@ -6,8 +6,8 @@
             4. XQuery: court(letter[@person) 
             -->
 <authors>
-    <personList> 
-        <person xml:id="kakinomotoNoHitomaro"> 
+    <personList>
+        <person xml:id="kakinomotoNoHitomaro" gender="m"> 
             <personName>柿本人麻呂</personName>
             <relation name ="imperialPoet" active="emperorTemmu"/>
             <!-- According to the Edo period scholar Kamo no Mabuchi, 
