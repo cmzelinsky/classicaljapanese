@@ -107,8 +107,8 @@ table.bib{
 
 div.text
 {
-    font-size:18px;
-    padding:15px 80px;
+    font-size:13px;
+    padding:15px;
     width:40%;
     margin-left:auto;
     margin-right:auto;
@@ -272,17 +272,14 @@ overflow:hidden;
     top : 200px;
     right : 80px;
     height: 258px;
-    width: 200px;
-    max-width:200px;
-    width:20%;
-    }
+    width: 350px;
+}
 
 #origami{
-    float:right;
+    float:left;
+
     top : 200px;
     right : 80px;
     height: 258px;
     width: 350px;
-    max-width:350px;
-    width:35%;
 }
